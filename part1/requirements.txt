@@ -1,0 +1,5 @@
+flask
+flask_sqlalchemy
+flask_marshmallow
+flask_cors
+psycopg2==2.7.5
