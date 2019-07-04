@@ -1,0 +1,58 @@
+<style type="text/css">
+                    @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+                    body{font-family: 'Open Sans', sans-serif;}
+             .cardWrapper{
+                width: 1024px;
+                margin: auto;
+             }
+             .cardrow{
+                width: 100%;
+                background: #eee;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+                        }
+             .title,.rating{
+                font-size: 16px;
+                font-weight: 700;
+             }
+             .releaseDate{
+                font-size: 14px;
+                font-weight: 700;
+             }
+             .overview{
+                 font-size: 12px;
+                font-weight: 700;  
+             }
+            .Search {
+    position: absolute;
+    height: 200px;
+    background: #fff;
+    width: 100%;
+        overflow-y: scroll;
+}
+
+.Search>div {
+    padding: 10px 20px;
+    border-bottom: 1px solid  #eeee;
+    cursor: pointer;
+}
+.searchWrapper{
+    width:200px;
+    position: relative;
+    margin: auto;
+
+}
+.searchWrapper>input{
+    padding: 10px 20px;
+    width: 100%;
+
+}
+.cardWrapper {
+    
+}
+
+.cardrow>div {
+    padding: 10px;
+}
+         </style>

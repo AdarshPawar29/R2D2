@@ -1,0 +1,74 @@
+---
+title: "ScrapingIMDB"
+author: "Adarsh Pawar"
+date: "04/07/2019"
+output:
+  html_document: default
+  pdf_document: default
+---
+##Importing all library
+
+```{r}
+
+library(rmarkdown)
+library(xml2)
+library(rvest)
+library(XML)
+library(rjson)
+library(jsonlite)
+```
+
+## Connecting r variables with website url
+
+```{r}
+
+url <- "http://www.imdb.com/chart/top?ref_=nv_wl_img_3"
+movie_webpage <- read_html("http://www.imdb.com/chart/top?ref_=nv_wl_img_3")
+movie_nodes <- html_nodes(movie_webpage,'.titleColumn a')
+movie_link = sapply(html_attrs(movie_nodes),`[[`,'href')
+movieid <- url %>%
+      read_html %>%
+      html_nodes("div.wlb_ribbon") %>%
+      html_attr("data-tconst")
+head(movieid)
+cast = sapply(html_attrs(movie_nodes),`[[`,'title')
+head(cast)
+moviename = html_text(movie_nodes)
+head(moviename)
+
+```
+
+## Extracting variables for data frame
+```{r}
+year <- html_nodes(page,'.secondaryInfo')
+head(html_text(year))
+year <- as.numeric(gsub(")","",
+                        gsub("\\(","", 
+                             html_text( year ))))
+head(year)
+rating.nodes = html_nodes(page,'.imdbRating strong')
+head(html_text(rating.nodes))
+rating = as.numeric(html_text(rating.nodes))
+head(rating)
+votes = as.numeric(gsub(',','', gsub(' user ratings','',
+                                     gsub('.*?based on ','',
+                                          sapply(html_attrs(rating.nodes),
+                                                 `[[`,'title')))))
+head(votes)
+```
+
+##Making a Data Frame
+```{r}
+
+movieData <- data.frame(moviename, rating, cast, movieid)
+movieData
+
+```
+##Converting the dataframe into JSON
+```{r}
+
+typeof(movieData)
+listMovieData <- jsonlite::toJSON(movieData)
+listMovieData
+
+```

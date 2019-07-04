@@ -1,0 +1,3003 @@
+[
+  {
+    "moviename": "The Shawshank Redemption",
+    "rating": 9.2,
+    "cast": "Frank Darabont (dir.), Tim Robbins, Morgan Freeman",
+    "movieid": "tt0111161"
+  },
+  {
+    "moviename": "The Godfather",
+    "rating": 9.2,
+    "cast": "Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",
+    "movieid": "tt0068646"
+  },
+  {
+    "moviename": "The Godfather: Part II",
+    "rating": 9,
+    "cast": "Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",
+    "movieid": "tt0071562"
+  },
+  {
+    "moviename": "The Dark Knight",
+    "rating": 9,
+    "cast": "Christopher Nolan (dir.), Christian Bale, Heath Ledger",
+    "movieid": "tt0468569"
+  },
+  {
+    "moviename": "12 Angry Men",
+    "rating": 8.9,
+    "cast": "Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",
+    "movieid": "tt0050083"
+  },
+  {
+    "moviename": "Schindler's List",
+    "rating": 8.9,
+    "cast": "Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",
+    "movieid": "tt0108052"
+  },
+  {
+    "moviename": "The Lord of the Rings: The Return of the King",
+    "rating": 8.9,
+    "cast": "Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",
+    "movieid": "tt0167260"
+  },
+  {
+    "moviename": "Pulp Fiction",
+    "rating": 8.9,
+    "cast": "Quentin Tarantino (dir.), John Travolta, Uma Thurman",
+    "movieid": "tt0110912"
+  },
+  {
+    "moviename": "Il buono, il brutto, il cattivo",
+    "rating": 8.8,
+    "cast": "Sergio Leone (dir.), Clint Eastwood, Eli Wallach",
+    "movieid": "tt0060196"
+  },
+  {
+    "moviename": "Fight Club",
+    "rating": 8.8,
+    "cast": "David Fincher (dir.), Brad Pitt, Edward Norton",
+    "movieid": "tt0137523"
+  },
+  {
+    "moviename": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": 8.8,
+    "cast": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
+    "movieid": "tt0120737"
+  },
+  {
+    "moviename": "Forrest Gump",
+    "rating": 8.7,
+    "cast": "Robert Zemeckis (dir.), Tom Hanks, Robin Wright",
+    "movieid": "tt0109830"
+  },
+  {
+    "moviename": "Inception",
+    "rating": 8.7,
+    "cast": "Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",
+    "movieid": "tt1375666"
+  },
+  {
+    "moviename": "Star Wars: Episode V - The Empire Strikes Back",
+    "rating": 8.7,
+    "cast": "Irvin Kershner (dir.), Mark Hamill, Harrison Ford",
+    "movieid": "tt0080684"
+  },
+  {
+    "moviename": "The Lord of the Rings: The Two Towers",
+    "rating": 8.7,
+    "cast": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
+    "movieid": "tt0167261"
+  },
+  {
+    "moviename": "One Flew Over the Cuckoo's Nest",
+    "rating": 8.7,
+    "cast": "Milos Forman (dir.), Jack Nicholson, Louise Fletcher",
+    "movieid": "tt0073486"
+  },
+  {
+    "moviename": "Goodfellas",
+    "rating": 8.7,
+    "cast": "Martin Scorsese (dir.), Robert De Niro, Ray Liotta",
+    "movieid": "tt0099685"
+  },
+  {
+    "moviename": "The Matrix",
+    "rating": 8.6,
+    "cast": "Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",
+    "movieid": "tt0133093"
+  },
+  {
+    "moviename": "Shichinin no samurai",
+    "rating": 8.6,
+    "cast": "Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",
+    "movieid": "tt0047478"
+  },
+  {
+    "moviename": "Avengers: Endgame",
+    "rating": 8.6,
+    "cast": "Anthony Russo (dir.), Robert Downey Jr., Chris Evans",
+    "movieid": "tt4154796"
+  },
+  {
+    "moviename": "Se7en",
+    "rating": 8.6,
+    "cast": "David Fincher (dir.), Morgan Freeman, Brad Pitt",
+    "movieid": "tt0114369"
+  },
+  {
+    "moviename": "Cidade de Deus",
+    "rating": 8.6,
+    "cast": "Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",
+    "movieid": "tt0317248"
+  },
+  {
+    "moviename": "Star Wars",
+    "rating": 8.6,
+    "cast": "George Lucas (dir.), Mark Hamill, Harrison Ford",
+    "movieid": "tt0076759"
+  },
+  {
+    "moviename": "The Silence of the Lambs",
+    "rating": 8.6,
+    "cast": "Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",
+    "movieid": "tt0102926"
+  },
+  {
+    "moviename": "It's a Wonderful Life",
+    "rating": 8.6,
+    "cast": "Frank Capra (dir.), James Stewart, Donna Reed",
+    "movieid": "tt0038650"
+  },
+  {
+    "moviename": "La vita è bella",
+    "rating": 8.6,
+    "cast": "Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",
+    "movieid": "tt0118799"
+  },
+  {
+    "moviename": "Sen to Chihiro no kamikakushi",
+    "rating": 8.5,
+    "cast": "Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",
+    "movieid": "tt0245429"
+  },
+  {
+    "moviename": "Saving Private Ryan",
+    "rating": 8.5,
+    "cast": "Steven Spielberg (dir.), Tom Hanks, Matt Damon",
+    "movieid": "tt0120815"
+  },
+  {
+    "moviename": "The Usual Suspects",
+    "rating": 8.5,
+    "cast": "Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",
+    "movieid": "tt0114814"
+  },
+  {
+    "moviename": "Léon",
+    "rating": 8.5,
+    "cast": "Luc Besson (dir.), Jean Reno, Gary Oldman",
+    "movieid": "tt0110413"
+  },
+  {
+    "moviename": "The Green Mile",
+    "rating": 8.5,
+    "cast": "Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",
+    "movieid": "tt0120689"
+  },
+  {
+    "moviename": "Interstellar",
+    "rating": 8.5,
+    "cast": "Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",
+    "movieid": "tt0816692"
+  },
+  {
+    "moviename": "Psycho",
+    "rating": 8.5,
+    "cast": "Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",
+    "movieid": "tt0054215"
+  },
+  {
+    "moviename": "American History X",
+    "rating": 8.5,
+    "cast": "Tony Kaye (dir.), Edward Norton, Edward Furlong",
+    "movieid": "tt0120586"
+  },
+  {
+    "moviename": "City Lights",
+    "rating": 8.5,
+    "cast": "Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",
+    "movieid": "tt0021749"
+  },
+  {
+    "moviename": "Casablanca",
+    "rating": 8.5,
+    "cast": "Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",
+    "movieid": "tt0034583"
+  },
+  {
+    "moviename": "Once Upon a Time in the West",
+    "rating": 8.5,
+    "cast": "Sergio Leone (dir.), Henry Fonda, Charles Bronson",
+    "movieid": "tt0064116"
+  },
+  {
+    "moviename": "The Pianist",
+    "rating": 8.5,
+    "cast": "Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",
+    "movieid": "tt0253474"
+  },
+  {
+    "moviename": "Modern Times",
+    "rating": 8.5,
+    "cast": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
+    "movieid": "tt0027977"
+  },
+  {
+    "moviename": "The Intouchables",
+    "rating": 8.5,
+    "cast": "Olivier Nakache (dir.), François Cluzet, Omar Sy",
+    "movieid": "tt1675434"
+  },
+  {
+    "moviename": "The Departed",
+    "rating": 8.5,
+    "cast": "Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",
+    "movieid": "tt0407887"
+  },
+  {
+    "moviename": "Back to the Future",
+    "rating": 8.5,
+    "cast": "Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",
+    "movieid": "tt0088763"
+  },
+  {
+    "moviename": "Terminator 2: Judgment Day",
+    "rating": 8.5,
+    "cast": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",
+    "movieid": "tt0103064"
+  },
+  {
+    "moviename": "The Lion King",
+    "rating": 8.5,
+    "cast": "Roger Allers (dir.), Matthew Broderick, Jeremy Irons",
+    "movieid": "tt0110357"
+  },
+  {
+    "moviename": "Whiplash",
+    "rating": 8.5,
+    "cast": "Damien Chazelle (dir.), Miles Teller, J.K. Simmons",
+    "movieid": "tt2582802"
+  },
+  {
+    "moviename": "Rear Window",
+    "rating": 8.5,
+    "cast": "Alfred Hitchcock (dir.), James Stewart, Grace Kelly",
+    "movieid": "tt0047396"
+  },
+  {
+    "moviename": "Gladiator",
+    "rating": 8.5,
+    "cast": "Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",
+    "movieid": "tt0172495"
+  },
+  {
+    "moviename": "Raiders of the Lost Ark",
+    "rating": 8.5,
+    "cast": "Steven Spielberg (dir.), Harrison Ford, Karen Allen",
+    "movieid": "tt0082971"
+  },
+  {
+    "moviename": "The Prestige",
+    "rating": 8.5,
+    "cast": "Christopher Nolan (dir.), Christian Bale, Hugh Jackman",
+    "movieid": "tt0482571"
+  },
+  {
+    "moviename": "Apocalypse Now",
+    "rating": 8.4,
+    "cast": "Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",
+    "movieid": "tt0078788"
+  },
+  {
+    "moviename": "Memento",
+    "rating": 8.4,
+    "cast": "Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",
+    "movieid": "tt0209144"
+  },
+  {
+    "moviename": "Alien",
+    "rating": 8.4,
+    "cast": "Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",
+    "movieid": "tt0078748"
+  },
+  {
+    "moviename": "Hotaru no haka",
+    "rating": 8.4,
+    "cast": "Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",
+    "movieid": "tt0095327"
+  },
+  {
+    "moviename": "Nuovo Cinema Paradiso",
+    "rating": 8.4,
+    "cast": "Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",
+    "movieid": "tt0095765"
+  },
+  {
+    "moviename": "The Great Dictator",
+    "rating": 8.4,
+    "cast": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
+    "movieid": "tt0032553"
+  },
+  {
+    "moviename": "Spider-Man: Into the Spider-Verse",
+    "rating": 8.4,
+    "cast": "Bob Persichetti (dir.), Shameik Moore, Jake Johnson",
+    "movieid": "tt4633694"
+  },
+  {
+    "moviename": "Sunset Blvd.",
+    "rating": 8.4,
+    "cast": "Billy Wilder (dir.), William Holden, Gloria Swanson",
+    "movieid": "tt0043014"
+  },
+  {
+    "moviename": "The Lives of Others",
+    "rating": 8.4,
+    "cast": "Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",
+    "movieid": "tt0405094"
+  },
+  {
+    "moviename": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "rating": 8.4,
+    "cast": "Stanley Kubrick (dir.), Peter Sellers, George C. Scott",
+    "movieid": "tt0057012"
+  },
+  {
+    "moviename": "Avengers: Infinity War",
+    "rating": 8.4,
+    "cast": "Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",
+    "movieid": "tt4154756"
+  },
+  {
+    "moviename": "Paths of Glory",
+    "rating": 8.4,
+    "cast": "Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",
+    "movieid": "tt0050825"
+  },
+  {
+    "moviename": "Django Unchained",
+    "rating": 8.4,
+    "cast": "Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",
+    "movieid": "tt1853728"
+  },
+  {
+    "moviename": "The Shining",
+    "rating": 8.4,
+    "cast": "Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",
+    "movieid": "tt0081505"
+  },
+  {
+    "moviename": "WALL·E",
+    "rating": 8.4,
+    "cast": "Andrew Stanton (dir.), Ben Burtt, Elissa Knight",
+    "movieid": "tt0910970"
+  },
+  {
+    "moviename": "Mononoke-hime",
+    "rating": 8.4,
+    "cast": "Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",
+    "movieid": "tt0119698"
+  },
+  {
+    "moviename": "Witness for the Prosecution",
+    "rating": 8.4,
+    "cast": "Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",
+    "movieid": "tt0051201"
+  },
+  {
+    "moviename": "Oldeuboi",
+    "rating": 8.3,
+    "cast": "Chan-wook Park (dir.), Min-sik Choi, Ji-tae Yu",
+    "movieid": "tt0364569"
+  },
+  {
+    "moviename": "The Dark Knight Rises",
+    "rating": 8.3,
+    "cast": "Christopher Nolan (dir.), Christian Bale, Tom Hardy",
+    "movieid": "tt1345836"
+  },
+  {
+    "moviename": "Aliens",
+    "rating": 8.3,
+    "cast": "James Cameron (dir.), Sigourney Weaver, Michael Biehn",
+    "movieid": "tt0090605"
+  },
+  {
+    "moviename": "American Beauty",
+    "rating": 8.3,
+    "cast": "Sam Mendes (dir.), Kevin Spacey, Annette Bening",
+    "movieid": "tt0169547"
+  },
+  {
+    "moviename": "Once Upon a Time in America",
+    "rating": 8.3,
+    "cast": "Sergio Leone (dir.), Robert De Niro, James Woods",
+    "movieid": "tt0087843"
+  },
+  {
+    "moviename": "Coco",
+    "rating": 8.3,
+    "cast": "Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",
+    "movieid": "tt2380307"
+  },
+  {
+    "moviename": "Das Boot",
+    "rating": 8.3,
+    "cast": "Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",
+    "movieid": "tt0082096"
+  },
+  {
+    "moviename": "Citizen Kane",
+    "rating": 8.3,
+    "cast": "Orson Welles (dir.), Orson Welles, Joseph Cotten",
+    "movieid": "tt0033467"
+  },
+  {
+    "moviename": "Braveheart",
+    "rating": 8.3,
+    "cast": "Mel Gibson (dir.), Mel Gibson, Sophie Marceau",
+    "movieid": "tt0112573"
+  },
+  {
+    "moviename": "Vertigo",
+    "rating": 8.3,
+    "cast": "Alfred Hitchcock (dir.), James Stewart, Kim Novak",
+    "movieid": "tt0052357"
+  },
+  {
+    "moviename": "Kimi no na wa.",
+    "rating": 8.3,
+    "cast": "Makoto Shinkai (dir.), Ryûnosuke Kamiki, Mone Kamishiraishi",
+    "movieid": "tt5311514"
+  },
+  {
+    "moviename": "North by Northwest",
+    "rating": 8.3,
+    "cast": "Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",
+    "movieid": "tt0053125"
+  },
+  {
+    "moviename": "Reservoir Dogs",
+    "rating": 8.3,
+    "cast": "Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",
+    "movieid": "tt0105236"
+  },
+  {
+    "moviename": "Star Wars: Episode VI - Return of the Jedi",
+    "rating": 8.3,
+    "cast": "Richard Marquand (dir.), Mark Hamill, Harrison Ford",
+    "movieid": "tt0086190"
+  },
+  {
+    "moviename": "M - Eine Stadt sucht einen Mörder",
+    "rating": 8.3,
+    "cast": "Fritz Lang (dir.), Peter Lorre, Ellen Widmann",
+    "movieid": "tt0022100"
+  },
+  {
+    "moviename": "Amadeus",
+    "rating": 8.3,
+    "cast": "Milos Forman (dir.), F. Murray Abraham, Tom Hulce",
+    "movieid": "tt0086879"
+  },
+  {
+    "moviename": "Requiem for a Dream",
+    "rating": 8.3,
+    "cast": "Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",
+    "movieid": "tt0180093"
+  },
+  {
+    "moviename": "3 Idiots",
+    "rating": 8.3,
+    "cast": "Rajkumar Hirani (dir.), Aamir Khan, Madhavan",
+    "movieid": "tt1187043"
+  },
+  {
+    "moviename": "Toy Story",
+    "rating": 8.3,
+    "cast": "John Lasseter (dir.), Tom Hanks, Tim Allen",
+    "movieid": "tt0114709"
+  },
+  {
+    "moviename": "Dangal",
+    "rating": 8.3,
+    "cast": "Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",
+    "movieid": "tt5074352"
+  },
+  {
+    "moviename": "2001: A Space Odyssey",
+    "rating": 8.3,
+    "cast": "Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",
+    "movieid": "tt0062622"
+  },
+  {
+    "moviename": "Taare Zameen Par",
+    "rating": 8.3,
+    "cast": "Aamir Khan (dir.), Darsheel Safary, Aamir Khan",
+    "movieid": "tt0986264"
+  },
+  {
+    "moviename": "Eternal Sunshine of the Spotless Mind",
+    "rating": 8.3,
+    "cast": "Michel Gondry (dir.), Jim Carrey, Kate Winslet",
+    "movieid": "tt0338013"
+  },
+  {
+    "moviename": "Lawrence of Arabia",
+    "rating": 8.3,
+    "cast": "David Lean (dir.), Peter O'Toole, Alec Guinness",
+    "movieid": "tt0056172"
+  },
+  {
+    "moviename": "A Clockwork Orange",
+    "rating": 8.3,
+    "cast": "Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",
+    "movieid": "tt0066921"
+  },
+  {
+    "moviename": "Singin' in the Rain",
+    "rating": 8.3,
+    "cast": "Stanley Donen (dir.), Gene Kelly, Donald O'Connor",
+    "movieid": "tt0045152"
+  },
+  {
+    "moviename": "Inglourious Basterds",
+    "rating": 8.3,
+    "cast": "Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",
+    "movieid": "tt0361748"
+  },
+  {
+    "moviename": "Amélie",
+    "rating": 8.3,
+    "cast": "Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",
+    "movieid": "tt0211915"
+  },
+  {
+    "moviename": "Double Indemnity",
+    "rating": 8.3,
+    "cast": "Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",
+    "movieid": "tt0036775"
+  },
+  {
+    "moviename": "Taxi Driver",
+    "rating": 8.3,
+    "cast": "Martin Scorsese (dir.), Robert De Niro, Jodie Foster",
+    "movieid": "tt0075314"
+  },
+  {
+    "moviename": "Full Metal Jacket",
+    "rating": 8.3,
+    "cast": "Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",
+    "movieid": "tt0093058"
+  },
+  {
+    "moviename": "To Kill a Mockingbird",
+    "rating": 8.3,
+    "cast": "Robert Mulligan (dir.), Gregory Peck, John Megna",
+    "movieid": "tt0056592"
+  },
+  {
+    "moviename": "Good Will Hunting",
+    "rating": 8.3,
+    "cast": "Gus Van Sant (dir.), Robin Williams, Matt Damon",
+    "movieid": "tt0119217"
+  },
+  {
+    "moviename": "Ladri di biciclette",
+    "rating": 8.3,
+    "cast": "Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",
+    "movieid": "tt0040522"
+  },
+  {
+    "moviename": "The Kid",
+    "rating": 8.3,
+    "cast": "Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",
+    "movieid": "tt0012349"
+  },
+  {
+    "moviename": "The Sting",
+    "rating": 8.3,
+    "cast": "George Roy Hill (dir.), Paul Newman, Robert Redford",
+    "movieid": "tt0070735"
+  },
+  {
+    "moviename": "Toy Story 3",
+    "rating": 8.3,
+    "cast": "Lee Unkrich (dir.), Tom Hanks, Tim Allen",
+    "movieid": "tt0435761"
+  },
+  {
+    "moviename": "Jagten",
+    "rating": 8.3,
+    "cast": "Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",
+    "movieid": "tt2106476"
+  },
+  {
+    "moviename": "Snatch",
+    "rating": 8.3,
+    "cast": "Guy Ritchie (dir.), Jason Statham, Brad Pitt",
+    "movieid": "tt0208092"
+  },
+  {
+    "moviename": "Scarface",
+    "rating": 8.2,
+    "cast": "Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",
+    "movieid": "tt0086250"
+  },
+  {
+    "moviename": "Per qualche dollaro in più",
+    "rating": 8.2,
+    "cast": "Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",
+    "movieid": "tt0059578"
+  },
+  {
+    "moviename": "The Apartment",
+    "rating": 8.2,
+    "cast": "Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",
+    "movieid": "tt0053604"
+  },
+  {
+    "moviename": "Metropolis",
+    "rating": 8.2,
+    "cast": "Fritz Lang (dir.), Brigitte Helm, Alfred Abel",
+    "movieid": "tt0017136"
+  },
+  {
+    "moviename": "Monty Python and the Holy Grail",
+    "rating": 8.2,
+    "cast": "Terry Gilliam (dir.), Graham Chapman, John Cleese",
+    "movieid": "tt0071853"
+  },
+  {
+    "moviename": "L.A. Confidential",
+    "rating": 8.2,
+    "cast": "Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",
+    "movieid": "tt0119488"
+  },
+  {
+    "moviename": "Jodaeiye Nader az Simin",
+    "rating": 8.2,
+    "cast": "Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",
+    "movieid": "tt1832382"
+  },
+  {
+    "moviename": "Indiana Jones and the Last Crusade",
+    "rating": 8.2,
+    "cast": "Steven Spielberg (dir.), Harrison Ford, Sean Connery",
+    "movieid": "tt0097576"
+  },
+  {
+    "moviename": "Up",
+    "rating": 8.2,
+    "cast": "Pete Docter (dir.), Edward Asner, Jordan Nagai",
+    "movieid": "tt1049413"
+  },
+  {
+    "moviename": "Rashômon",
+    "rating": 8.2,
+    "cast": "Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",
+    "movieid": "tt0042876"
+  },
+  {
+    "moviename": "All About Eve",
+    "rating": 8.2,
+    "cast": "Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",
+    "movieid": "tt0042192"
+  },
+  {
+    "moviename": "Batman Begins",
+    "rating": 8.2,
+    "cast": "Christopher Nolan (dir.), Christian Bale, Michael Caine",
+    "movieid": "tt0372784"
+  },
+  {
+    "moviename": "Some Like It Hot",
+    "rating": 8.2,
+    "cast": "Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",
+    "movieid": "tt0053291"
+  },
+  {
+    "moviename": "Yôjinbô",
+    "rating": 8.2,
+    "cast": "Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",
+    "movieid": "tt0055630"
+  },
+  {
+    "moviename": "Der Untergang",
+    "rating": 8.2,
+    "cast": "Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",
+    "movieid": "tt0363163"
+  },
+  {
+    "moviename": "Die Hard",
+    "rating": 8.2,
+    "cast": "John McTiernan (dir.), Bruce Willis, Alan Rickman",
+    "movieid": "tt0095016"
+  },
+  {
+    "moviename": "Unforgiven",
+    "rating": 8.2,
+    "cast": "Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",
+    "movieid": "tt0105695"
+  },
+  {
+    "moviename": "Toy Story 4",
+    "rating": 8.2,
+    "cast": "Josh Cooley (dir.), Tom Hanks, Tim Allen",
+    "movieid": "tt1979376"
+  },
+  {
+    "moviename": "Heat",
+    "rating": 8.2,
+    "cast": "Michael Mann (dir.), Al Pacino, Robert De Niro",
+    "movieid": "tt0113277"
+  },
+  {
+    "moviename": "Incendies",
+    "rating": 8.2,
+    "cast": "Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",
+    "movieid": "tt1255953"
+  },
+  {
+    "moviename": "The Treasure of the Sierra Madre",
+    "rating": 8.2,
+    "cast": "John Huston (dir.), Humphrey Bogart, Walter Huston",
+    "movieid": "tt0040897"
+  },
+  {
+    "moviename": "Ikiru",
+    "rating": 8.2,
+    "cast": "Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",
+    "movieid": "tt0044741"
+  },
+  {
+    "moviename": "Green Book",
+    "rating": 8.2,
+    "cast": "Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",
+    "movieid": "tt6966692"
+  },
+  {
+    "moviename": "Raging Bull",
+    "rating": 8.2,
+    "cast": "Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",
+    "movieid": "tt0081398"
+  },
+  {
+    "moviename": "The Great Escape",
+    "rating": 8.2,
+    "cast": "John Sturges (dir.), Steve McQueen, James Garner",
+    "movieid": "tt0057115"
+  },
+  {
+    "moviename": "Bacheha-Ye aseman",
+    "rating": 8.2,
+    "cast": "Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",
+    "movieid": "tt0118849"
+  },
+  {
+    "moviename": "Pan's Labyrinth",
+    "rating": 8.2,
+    "cast": "Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",
+    "movieid": "tt0457430"
+  },
+  {
+    "moviename": "Chinatown",
+    "rating": 8.2,
+    "cast": "Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",
+    "movieid": "tt0071315"
+  },
+  {
+    "moviename": "Tonari no Totoro",
+    "rating": 8.2,
+    "cast": "Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",
+    "movieid": "tt0096283"
+  },
+  {
+    "moviename": "Hauru no ugoku shiro",
+    "rating": 8.2,
+    "cast": "Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",
+    "movieid": "tt0347149"
+  },
+  {
+    "moviename": "Ran",
+    "rating": 8.2,
+    "cast": "Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",
+    "movieid": "tt0089881"
+  },
+  {
+    "moviename": "The Third Man",
+    "rating": 8.2,
+    "cast": "Carol Reed (dir.), Orson Welles, Joseph Cotten",
+    "movieid": "tt0041959"
+  },
+  {
+    "moviename": "Babam ve Oglum",
+    "rating": 8.2,
+    "cast": "Çagan Irmak (dir.), Çetin Tekindor, Fikret Kuskan",
+    "movieid": "tt0476735"
+  },
+  {
+    "moviename": "Judgment at Nuremberg",
+    "rating": 8.2,
+    "cast": "Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",
+    "movieid": "tt0055031"
+  },
+  {
+    "moviename": "El secreto de sus ojos",
+    "rating": 8.2,
+    "cast": "Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",
+    "movieid": "tt1305806"
+  },
+  {
+    "moviename": "The Gold Rush",
+    "rating": 8.2,
+    "cast": "Charles Chaplin (dir.), Charles Chaplin, Mack Swain",
+    "movieid": "tt0015864"
+  },
+  {
+    "moviename": "A Beautiful Mind",
+    "rating": 8.2,
+    "cast": "Ron Howard (dir.), Russell Crowe, Ed Harris",
+    "movieid": "tt0268978"
+  },
+  {
+    "moviename": "The Bridge on the River Kwai",
+    "rating": 8.2,
+    "cast": "David Lean (dir.), William Holden, Alec Guinness",
+    "movieid": "tt0050212"
+  },
+  {
+    "moviename": "Casino",
+    "rating": 8.2,
+    "cast": "Martin Scorsese (dir.), Robert De Niro, Sharon Stone",
+    "movieid": "tt0112641"
+  },
+  {
+    "moviename": "Lock, Stock and Two Smoking Barrels",
+    "rating": 8.2,
+    "cast": "Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",
+    "movieid": "tt0120735"
+  },
+  {
+    "moviename": "Det sjunde inseglet",
+    "rating": 8.1,
+    "cast": "Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",
+    "movieid": "tt0050976"
+  },
+  {
+    "moviename": "Three Billboards Outside Ebbing, Missouri",
+    "rating": 8.1,
+    "cast": "Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",
+    "movieid": "tt5027774"
+  },
+  {
+    "moviename": "On the Waterfront",
+    "rating": 8.1,
+    "cast": "Elia Kazan (dir.), Marlon Brando, Karl Malden",
+    "movieid": "tt0047296"
+  },
+  {
+    "moviename": "The Wolf of Wall Street",
+    "rating": 8.1,
+    "cast": "Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",
+    "movieid": "tt0993846"
+  },
+  {
+    "moviename": "The Elephant Man",
+    "rating": 8.1,
+    "cast": "David Lynch (dir.), Anthony Hopkins, John Hurt",
+    "movieid": "tt0080678"
+  },
+  {
+    "moviename": "Inside Out",
+    "rating": 8.1,
+    "cast": "Pete Docter (dir.), Amy Poehler, Bill Hader",
+    "movieid": "tt2096673"
+  },
+  {
+    "moviename": "V for Vendetta",
+    "rating": 8.1,
+    "cast": "James McTeigue (dir.), Hugo Weaving, Natalie Portman",
+    "movieid": "tt0434409"
+  },
+  {
+    "moviename": "Mr. Smith Goes to Washington",
+    "rating": 8.1,
+    "cast": "Frank Capra (dir.), James Stewart, Jean Arthur",
+    "movieid": "tt0031679"
+  },
+  {
+    "moviename": "There Will Be Blood",
+    "rating": 8.1,
+    "cast": "Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",
+    "movieid": "tt0469494"
+  },
+  {
+    "moviename": "Warrior",
+    "rating": 8.1,
+    "cast": "Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",
+    "movieid": "tt1291584"
+  },
+  {
+    "moviename": "Blade Runner",
+    "rating": 8.1,
+    "cast": "Ridley Scott (dir.), Harrison Ford, Rutger Hauer",
+    "movieid": "tt0083658"
+  },
+  {
+    "moviename": "Room",
+    "rating": 8.1,
+    "cast": "Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",
+    "movieid": "tt3170832"
+  },
+  {
+    "moviename": "No Country for Old Men",
+    "rating": 8.1,
+    "cast": "Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",
+    "movieid": "tt0477348"
+  },
+  {
+    "moviename": "Dial M for Murder",
+    "rating": 8.1,
+    "cast": "Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",
+    "movieid": "tt0046912"
+  },
+  {
+    "moviename": "The Sixth Sense",
+    "rating": 8.1,
+    "cast": "M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",
+    "movieid": "tt0167404"
+  },
+  {
+    "moviename": "Smultronstället",
+    "rating": 8.1,
+    "cast": "Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",
+    "movieid": "tt0050986"
+  },
+  {
+    "moviename": "Trainspotting",
+    "rating": 8.1,
+    "cast": "Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",
+    "movieid": "tt0117951"
+  },
+  {
+    "moviename": "The General",
+    "rating": 8.1,
+    "cast": "Clyde Bruckman (dir.), Buster Keaton, Marion Mack",
+    "movieid": "tt0017925"
+  },
+  {
+    "moviename": "Gone with the Wind",
+    "rating": 8.1,
+    "cast": "Victor Fleming (dir.), Clark Gable, Vivien Leigh",
+    "movieid": "tt0031381"
+  },
+  {
+    "moviename": "The Thing",
+    "rating": 8.1,
+    "cast": "John Carpenter (dir.), Kurt Russell, Wilford Brimley",
+    "movieid": "tt0084787"
+  },
+  {
+    "moviename": "Fargo",
+    "rating": 8.1,
+    "cast": "Joel Coen (dir.), William H. Macy, Frances McDormand",
+    "movieid": "tt0116282"
+  },
+  {
+    "moviename": "Idi i smotri",
+    "rating": 8.1,
+    "cast": "Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",
+    "movieid": "tt0091251"
+  },
+  {
+    "moviename": "Andhadhun",
+    "rating": 8.1,
+    "cast": "Sriram Raghavan (dir.), Ayushmann Khurrana, Tabu",
+    "movieid": "tt8108198"
+  },
+  {
+    "moviename": "Finding Nemo",
+    "rating": 8.1,
+    "cast": "Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",
+    "movieid": "tt0266543"
+  },
+  {
+    "moviename": "Gran Torino",
+    "rating": 8.1,
+    "cast": "Clint Eastwood (dir.), Clint Eastwood, Bee Vang",
+    "movieid": "tt1205489"
+  },
+  {
+    "moviename": "The Deer Hunter",
+    "rating": 8.1,
+    "cast": "Michael Cimino (dir.), Robert De Niro, Christopher Walken",
+    "movieid": "tt0077416"
+  },
+  {
+    "moviename": "Shutter Island",
+    "rating": 8.1,
+    "cast": "Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",
+    "movieid": "tt1130884"
+  },
+  {
+    "moviename": "The Big Lebowski",
+    "rating": 8.1,
+    "cast": "Joel Coen (dir.), Jeff Bridges, John Goodman",
+    "movieid": "tt0118715"
+  },
+  {
+    "moviename": "Kill Bill: Vol. 1",
+    "rating": 8.1,
+    "cast": "Quentin Tarantino (dir.), Uma Thurman, David Carradine",
+    "movieid": "tt0266697"
+  },
+  {
+    "moviename": "Sherlock Jr.",
+    "rating": 8.1,
+    "cast": "Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",
+    "movieid": "tt0015324"
+  },
+  {
+    "moviename": "Cool Hand Luke",
+    "rating": 8.1,
+    "cast": "Stuart Rosenberg (dir.), Paul Newman, George Kennedy",
+    "movieid": "tt0061512"
+  },
+  {
+    "moviename": "Mary and Max",
+    "rating": 8.1,
+    "cast": "Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",
+    "movieid": "tt0978762"
+  },
+  {
+    "moviename": "Tôkyô monogatari",
+    "rating": 8.1,
+    "cast": "Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",
+    "movieid": "tt0046438"
+  },
+  {
+    "moviename": "Hacksaw Ridge",
+    "rating": 8.1,
+    "cast": "Mel Gibson (dir.), Andrew Garfield, Sam Worthington",
+    "movieid": "tt2119532"
+  },
+  {
+    "moviename": "Rebecca",
+    "rating": 8.1,
+    "cast": "Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",
+    "movieid": "tt0032976"
+  },
+  {
+    "moviename": "Jurassic Park",
+    "rating": 8.1,
+    "cast": "Steven Spielberg (dir.), Sam Neill, Laura Dern",
+    "movieid": "tt0107290"
+  },
+  {
+    "moviename": "How to Train Your Dragon",
+    "rating": 8.1,
+    "cast": "Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",
+    "movieid": "tt0892769"
+  },
+  {
+    "moviename": "Gone Girl",
+    "rating": 8.1,
+    "cast": "David Fincher (dir.), Ben Affleck, Rosamund Pike",
+    "movieid": "tt2267998"
+  },
+  {
+    "moviename": "Relatos salvajes",
+    "rating": 8.1,
+    "cast": "Damián Szifron (dir.), Darío Grandinetti, María Marull",
+    "movieid": "tt3011894"
+  },
+  {
+    "moviename": "The Truman Show",
+    "rating": 8.1,
+    "cast": "Peter Weir (dir.), Jim Carrey, Ed Harris",
+    "movieid": "tt0120382"
+  },
+  {
+    "moviename": "Stalker",
+    "rating": 8.1,
+    "cast": "Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy",
+    "movieid": "tt0079944"
+  },
+  {
+    "moviename": "The Grand Budapest Hotel",
+    "rating": 8.1,
+    "cast": "Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",
+    "movieid": "tt2278388"
+  },
+  {
+    "moviename": "In the Name of the Father",
+    "rating": 8.1,
+    "cast": "Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",
+    "movieid": "tt0107207"
+  },
+  {
+    "moviename": "Sunrise: A Song of Two Humans",
+    "rating": 8.1,
+    "cast": "F.W. Murnau (dir.), George O'Brien, Janet Gaynor",
+    "movieid": "tt0018455"
+  },
+  {
+    "moviename": "Stand by Me",
+    "rating": 8.1,
+    "cast": "Rob Reiner (dir.), Wil Wheaton, River Phoenix",
+    "movieid": "tt0092005"
+  },
+  {
+    "moviename": "Salinui chueok",
+    "rating": 8.1,
+    "cast": "Joon-ho Bong (dir.), Kang-ho Song, Sang-kyung Kim",
+    "movieid": "tt0353969"
+  },
+  {
+    "moviename": "It Happened One Night",
+    "rating": 8.1,
+    "cast": "Frank Capra (dir.), Clark Gable, Claudette Colbert",
+    "movieid": "tt0025316"
+  },
+  {
+    "moviename": "Platoon",
+    "rating": 8.1,
+    "cast": "Oliver Stone (dir.), Charlie Sheen, Tom Berenger",
+    "movieid": "tt0091763"
+  },
+  {
+    "moviename": "Into the Wild",
+    "rating": 8.1,
+    "cast": "Sean Penn (dir.), Emile Hirsch, Vince Vaughn",
+    "movieid": "tt0758758"
+  },
+  {
+    "moviename": "Network",
+    "rating": 8.1,
+    "cast": "Sidney Lumet (dir.), Faye Dunaway, William Holden",
+    "movieid": "tt0074958"
+  },
+  {
+    "moviename": "Persona",
+    "rating": 8.1,
+    "cast": "Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",
+    "movieid": "tt0060827"
+  },
+  {
+    "moviename": "Life of Brian",
+    "rating": 8.1,
+    "cast": "Terry Jones (dir.), Graham Chapman, John Cleese",
+    "movieid": "tt0079470"
+  },
+  {
+    "moviename": "Ben-Hur",
+    "rating": 8.1,
+    "cast": "William Wyler (dir.), Charlton Heston, Jack Hawkins",
+    "movieid": "tt0052618"
+  },
+  {
+    "moviename": "12 Years a Slave",
+    "rating": 8.1,
+    "cast": "Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",
+    "movieid": "tt2024544"
+  },
+  {
+    "moviename": "Million Dollar Baby",
+    "rating": 8.1,
+    "cast": "Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",
+    "movieid": "tt0405159"
+  },
+  {
+    "moviename": "Before Sunrise",
+    "rating": 8.1,
+    "cast": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy",
+    "movieid": "tt0112471"
+  },
+  {
+    "moviename": "Hotel Rwanda",
+    "rating": 8.1,
+    "cast": "Terry George (dir.), Don Cheadle, Sophie Okonedo",
+    "movieid": "tt0395169"
+  },
+  {
+    "moviename": "Prisoners",
+    "rating": 8.1,
+    "cast": "Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",
+    "movieid": "tt1392214"
+  },
+  {
+    "moviename": "Mad Max: Fury Road",
+    "rating": 8.1,
+    "cast": "George Miller (dir.), Tom Hardy, Charlize Theron",
+    "movieid": "tt1392190"
+  },
+  {
+    "moviename": "Logan",
+    "rating": 8.1,
+    "cast": "James Mangold (dir.), Hugh Jackman, Patrick Stewart",
+    "movieid": "tt3315342"
+  },
+  {
+    "moviename": "Hachi: A Dog's Tale",
+    "rating": 8.1,
+    "cast": "Lasse Hallström (dir.), Richard Gere, Joan Allen",
+    "movieid": "tt1028532"
+  },
+  {
+    "moviename": "Eskiya",
+    "rating": 8.1,
+    "cast": "Yavuz Turgul (dir.), Sener Sen, Ugur Yücel",
+    "movieid": "tt0116231"
+  },
+  {
+    "moviename": "Rush",
+    "rating": 8.1,
+    "cast": "Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",
+    "movieid": "tt1979320"
+  },
+  {
+    "moviename": "Le salaire de la peur",
+    "rating": 8.1,
+    "cast": "Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",
+    "movieid": "tt0046268"
+  },
+  {
+    "moviename": "Catch Me If You Can",
+    "rating": 8.1,
+    "cast": "Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",
+    "movieid": "tt0264464"
+  },
+  {
+    "moviename": "Les quatre cents coups",
+    "rating": 8.1,
+    "cast": "François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",
+    "movieid": "tt0053198"
+  },
+  {
+    "moviename": "Spotlight",
+    "rating": 8.1,
+    "cast": "Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",
+    "movieid": "tt1895587"
+  },
+  {
+    "moviename": "Amores perros",
+    "rating": 8.1,
+    "cast": "Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",
+    "movieid": "tt0245712"
+  },
+  {
+    "moviename": "Andrei Rublev",
+    "rating": 8.1,
+    "cast": "Andrei Tarkovsky (dir.), Anatoliy Solonitsyn, Ivan Lapikov",
+    "movieid": "tt0060107"
+  },
+  {
+    "moviename": "Harry Potter and the Deathly Hallows: Part 2",
+    "rating": 8.1,
+    "cast": "David Yates (dir.), Daniel Radcliffe, Emma Watson",
+    "movieid": "tt1201607"
+  },
+  {
+    "moviename": "Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",
+    "rating": 8.1,
+    "cast": "Hideaki Anno (dir.), Megumi Ogata, Megumi Hayashibara",
+    "movieid": "tt0169858"
+  },
+  {
+    "moviename": "Kaze no tani no Naushika",
+    "rating": 8,
+    "cast": "Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura",
+    "movieid": "tt0087544"
+  },
+  {
+    "moviename": "La passion de Jeanne d'Arc",
+    "rating": 8,
+    "cast": "Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",
+    "movieid": "tt0019254"
+  },
+  {
+    "moviename": "The Princess Bride",
+    "rating": 8,
+    "cast": "Rob Reiner (dir.), Cary Elwes, Mandy Patinkin",
+    "movieid": "tt0093779"
+  },
+  {
+    "moviename": "Barry Lyndon",
+    "rating": 8,
+    "cast": "Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",
+    "movieid": "tt0072684"
+  },
+  {
+    "moviename": "Rocky",
+    "rating": 8,
+    "cast": "John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",
+    "movieid": "tt0075148"
+  },
+  {
+    "moviename": "Butch Cassidy and the Sundance Kid",
+    "rating": 8,
+    "cast": "George Roy Hill (dir.), Paul Newman, Robert Redford",
+    "movieid": "tt0064115"
+  },
+  {
+    "moviename": "Rang De Basanti",
+    "rating": 8,
+    "cast": "Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan",
+    "movieid": "tt0405508"
+  },
+  {
+    "moviename": "Monsters, Inc.",
+    "rating": 8,
+    "cast": "Pete Docter (dir.), Billy Crystal, John Goodman",
+    "movieid": "tt0198781"
+  },
+  {
+    "moviename": "Dead Poets Society",
+    "rating": 8,
+    "cast": "Peter Weir (dir.), Robin Williams, Robert Sean Leonard",
+    "movieid": "tt0097165"
+  },
+  {
+    "moviename": "The Grapes of Wrath",
+    "rating": 8,
+    "cast": "John Ford (dir.), Henry Fonda, Jane Darwell",
+    "movieid": "tt0032551"
+  },
+  {
+    "moviename": "The Terminator",
+    "rating": 8,
+    "cast": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",
+    "movieid": "tt0088247"
+  },
+  {
+    "moviename": "The Maltese Falcon",
+    "rating": 8,
+    "cast": "John Huston (dir.), Humphrey Bogart, Mary Astor",
+    "movieid": "tt0033870"
+  },
+  {
+    "moviename": "Ah-ga-ssi",
+    "rating": 8,
+    "cast": "Chan-wook Park (dir.), Min-hee Kim, Jung-woo Ha",
+    "movieid": "tt4016934"
+  },
+  {
+    "moviename": "La haine",
+    "rating": 8,
+    "cast": "Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",
+    "movieid": "tt0113247"
+  },
+  {
+    "moviename": "Gandhi",
+    "rating": 8,
+    "cast": "Richard Attenborough (dir.), Ben Kingsley, John Gielgud",
+    "movieid": "tt0083987"
+  },
+  {
+    "moviename": "Faa yeung nin wa",
+    "rating": 8,
+    "cast": "Kar-Wai Wong (dir.), Tony Chiu-Wai Leung, Maggie Cheung",
+    "movieid": "tt0118694"
+  },
+  {
+    "moviename": "Donnie Darko",
+    "rating": 8,
+    "cast": "Richard Kelly (dir.), Jake Gyllenhaal, Jena Malone",
+    "movieid": "tt0246578"
+  },
+  {
+    "moviename": "Groundhog Day",
+    "rating": 8,
+    "cast": "Harold Ramis (dir.), Bill Murray, Andie MacDowell",
+    "movieid": "tt0107048"
+  },
+  {
+    "moviename": "The Help",
+    "rating": 8,
+    "cast": "Tate Taylor (dir.), Emma Stone, Viola Davis",
+    "movieid": "tt1454029"
+  },
+  {
+    "moviename": "Les diaboliques",
+    "rating": 8,
+    "cast": "Henri-Georges Clouzot (dir.), Simone Signoret, Véra Clouzot",
+    "movieid": "tt0046911"
+  },
+  {
+    "moviename": "The Wizard of Oz",
+    "rating": 8,
+    "cast": "Victor Fleming (dir.), Judy Garland, Frank Morgan",
+    "movieid": "tt0032138"
+  },
+  {
+    "moviename": "Guardians of the Galaxy",
+    "rating": 8,
+    "cast": "James Gunn (dir.), Chris Pratt, Vin Diesel",
+    "movieid": "tt2015381"
+  },
+  {
+    "moviename": "Jaws",
+    "rating": 8,
+    "cast": "Steven Spielberg (dir.), Roy Scheider, Robert Shaw",
+    "movieid": "tt0073195"
+  },
+  {
+    "moviename": "Before Sunset",
+    "rating": 8,
+    "cast": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy",
+    "movieid": "tt0381681"
+  },
+  {
+    "moviename": "Tenkû no shiro Rapyuta",
+    "rating": 8,
+    "cast": "Hayao Miyazaki (dir.), Anna Paquin, James Van Der Beek",
+    "movieid": "tt0092067"
+  },
+  {
+    "moviename": "Da hong deng long gao gao gua",
+    "rating": 8,
+    "cast": "Yimou Zhang (dir.), Li Gong, Jingwu Ma",
+    "movieid": "tt0101640"
+  },
+  {
+    "moviename": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "rating": 8,
+    "cast": "Gore Verbinski (dir.), Johnny Depp, Geoffrey Rush",
+    "movieid": "tt0325980"
+  },
+  {
+    "moviename": "Paris, Texas",
+    "rating": 8,
+    "cast": "Wim Wenders (dir.), Harry Dean Stanton, Nastassja Kinski",
+    "movieid": "tt0087884"
+  },
+  {
+    "moviename": "Beauty and the Beast",
+    "rating": 8,
+    "cast": "Gary Trousdale (dir.), Paige O'Hara, Robby Benson",
+    "movieid": "tt0101414"
+  },
+  {
+    "moviename": "Akira",
+    "rating": 8,
+    "cast": "Katsuhiro Ôtomo (dir.), Mitsuo Iwata, Nozomu Sasaki",
+    "movieid": "tt0094625"
+  },
+  {
+    "moviename": "The Exorcist",
+    "rating": 8,
+    "cast": "William Friedkin (dir.), Ellen Burstyn, Max von Sydow",
+    "movieid": "tt0070047"
+  },
+  {
+    "moviename": "Dog Day Afternoon",
+    "rating": 8,
+    "cast": "Sidney Lumet (dir.), Al Pacino, John Cazale",
+    "movieid": "tt0072890"
+  },
+  {
+    "moviename": "Drishyam",
+    "rating": 8,
+    "cast": "Nishikant Kamat (dir.), Ajay Devgn, Shriya Saran",
+    "movieid": "tt4430212"
+  },
+  {
+    "moviename": "Munna Bhai M.B.B.S.",
+    "rating": 8,
+    "cast": "Rajkumar Hirani (dir.), Sanjay Dutt, Arshad Warsi",
+    "movieid": "tt0374887"
+  }
+
+  {
+    "moviename": "Anand",
+    "rating": 9.2,
+    "cast": "Hrishikesh Mukherjee (dir.), Rajesh Khanna, Amitabh Bachchan",
+    "movieid": "tt0066763"
+  },
+  {
+    "moviename": "Drishyam",
+    "rating": 9.2,
+    "cast": "Jeethu Joseph (dir.), Mohanlal, Meena",
+    "movieid": "tt3417422"
+  },
+  {
+    "moviename": "Nayakan",
+    "rating": 9,
+    "cast": "Mani Ratnam (dir.), Kamal Haasan, Saranya Ponvannan",
+    "movieid": "tt0093603"
+  },
+  {
+    "moviename": "Anbe Sivam",
+    "rating": 9,
+    "cast": "Sundar C. (dir.), Kamal Haasan, Madhavan",
+    "movieid": "tt0367495"
+  },
+  {
+    "moviename": "Gol Maal",
+    "rating": 8.9,
+    "cast": "Hrishikesh Mukherjee (dir.), Amol Palekar, Bindiya Goswami",
+    "movieid": "tt0079221"
+  },
+  {
+    "moviename": "Vikram Vedha",
+    "rating": 8.9,
+    "cast": "Gayatri (dir.), Vijay Sethupathi, Madhavan",
+    "movieid": "tt6148156"
+  },
+  {
+    "moviename": "Black Friday",
+    "rating": 8.9,
+    "cast": "Anurag Kashyap (dir.), Kay Kay Menon, Pavan Malhotra",
+    "movieid": "tt0400234"
+  },
+  {
+    "moviename": "Ratsasan",
+    "rating": 8.9,
+    "cast": "Ram Kumar (dir.), Radha Ravi, Sangili Murugan",
+    "movieid": "tt7060344"
+  },
+  {
+    "moviename": "Pather Panchali",
+    "rating": 8.8,
+    "cast": "Satyajit Ray (dir.), Kanu Bannerjee, Karuna Bannerjee",
+    "movieid": "tt0048473"
+  },
+  {
+    "moviename": "Dangal",
+    "rating": 8.8,
+    "cast": "Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",
+    "movieid": "tt5074352"
+  },
+  {
+    "moviename": "Taare Zameen Par",
+    "rating": 8.8,
+    "cast": "Aamir Khan (dir.), Darsheel Safary, Aamir Khan",
+    "movieid": "tt0986264"
+  },
+  {
+    "moviename": "3 Idiots",
+    "rating": 8.7,
+    "cast": "Rajkumar Hirani (dir.), Aamir Khan, Madhavan",
+    "movieid": "tt1187043"
+  },
+  {
+    "moviename": "96",
+    "rating": 8.7,
+    "cast": "C. Prem Kumar (dir.), Vijay Sethupathi, Trisha Krishnan",
+    "movieid": "tt7019842"
+  },
+  {
+    "moviename": "Thalapathi",
+    "rating": 8.7,
+    "cast": "Mani Ratnam (dir.), Rajinikanth, Mammootty",
+    "movieid": "tt0101649"
+  },
+  {
+    "moviename": "Jaane Bhi Do Yaaro",
+    "rating": 8.7,
+    "cast": "Kundan Shah (dir.), Naseeruddin Shah, Ravi Baswani",
+    "movieid": "tt0085743"
+  },
+  {
+    "moviename": "Aruvi",
+    "rating": 8.7,
+    "cast": "Arun Prabhu Purushothaman (dir.), Aditi Balan, Padmashri Mohammad Ali",
+    "movieid": "tt5867800"
+  },
+  {
+    "moviename": "Manichitrathazhu",
+    "rating": 8.7,
+    "cast": "Fazil (dir.), Mohanlal, Shobana",
+    "movieid": "tt0214915"
+  },
+  {
+    "moviename": "Guide",
+    "rating": 8.6,
+    "cast": "Vijay Anand (dir.), Dev Anand, Waheeda Rehman",
+    "movieid": "tt0059246"
+  },
+  {
+    "moviename": "Andhadhun",
+    "rating": 8.6,
+    "cast": "Sriram Raghavan (dir.), Ayushmann Khurrana, Tabu",
+    "movieid": "tt8108198"
+  },
+  {
+    "moviename": "Chupke Chupke",
+    "rating": 8.6,
+    "cast": "Hrishikesh Mukherjee (dir.), Dharmendra, Sharmila Tagore",
+    "movieid": "tt0072783"
+  },
+  {
+    "moviename": "Uri: The Surgical Strike",
+    "rating": 8.6,
+    "cast": "Aditya Dhar (dir.), Vicky Kaushal, Paresh Rawal",
+    "movieid": "tt8291224"
+  },
+  {
+    "moviename": "Thani Oruvan",
+    "rating": 8.6,
+    "cast": "Mohan Raja (dir.), Jayam Ravi, Arvind Swamy",
+    "movieid": "tt4987556"
+  },
+  {
+    "moviename": "Kannathil Muthamittal",
+    "rating": 8.6,
+    "cast": "Mani Ratnam (dir.), Madhavan, Simran",
+    "movieid": "tt0312859"
+  },
+  {
+    "moviename": "Khosla Ka Ghosla!",
+    "rating": 8.6,
+    "cast": "Dibakar Banerjee (dir.), Anupam Kher, Boman Irani",
+    "movieid": "tt0466460"
+  },
+  {
+    "moviename": "Apur Sansar",
+    "rating": 8.6,
+    "cast": "Satyajit Ray (dir.), Soumitra Chatterjee, Sharmila Tagore",
+    "movieid": "tt0052572"
+  },
+  {
+    "moviename": "Vada Chennai",
+    "rating": 8.6,
+    "cast": "Vetrimaaran (dir.), Dhanush, Ameer Sultan",
+    "movieid": "tt5959980"
+  },
+  {
+    "moviename": "Gully Boy",
+    "rating": 8.5,
+    "cast": "Zoya Akhtar (dir.), Ranveer Singh, Alia Bhatt",
+    "movieid": "tt2395469"
+  },
+  {
+    "moviename": "Dhuruvangal Pathinaaru",
+    "rating": 8.5,
+    "cast": "Karthick Naren (dir.), Rahman, Prakash Raghavan",
+    "movieid": "tt6380520"
+  },
+  {
+    "moviename": "Peranbu",
+    "rating": 8.5,
+    "cast": "Ram (dir.), Mammootty, Sadhana",
+    "movieid": "tt7738784"
+  },
+  {
+    "moviename": "Shahid",
+    "rating": 8.5,
+    "cast": "Hansal Mehta (dir.), Rajkummar Rao, Mohammed Zeeshan Ayyub",
+    "movieid": "tt2181831"
+  },
+  {
+    "moviename": "Talvar",
+    "rating": 8.5,
+    "cast": "Meghna Gulzar (dir.), Irrfan Khan, Konkona Sen Sharma",
+    "movieid": "tt4934950"
+  },
+  {
+    "moviename": "Drishyam",
+    "rating": 8.5,
+    "cast": "Nishikant Kamat (dir.), Ajay Devgn, Shriya Saran",
+    "movieid": "tt4430212"
+  },
+  {
+    "moviename": "Aparajito",
+    "rating": 8.5,
+    "cast": "Satyajit Ray (dir.), Pinaki Sengupta, Smaran Ghosal",
+    "movieid": "tt0048956"
+  },
+  {
+    "moviename": "Hera Pheri",
+    "rating": 8.5,
+    "cast": "Priyadarshan (dir.), Akshay Kumar, Paresh Rawal",
+    "movieid": "tt0242519"
+  },
+  {
+    "moviename": "Satya",
+    "rating": 8.5,
+    "cast": "Ram Gopal Varma (dir.), J.D. Chakravarthi, Urmila Matondkar",
+    "movieid": "tt0195231"
+  },
+  {
+    "moviename": "Black",
+    "rating": 8.5,
+    "cast": "Sanjay Leela Bhansali (dir.), Amitabh Bachchan, Rani Mukerji",
+    "movieid": "tt0375611"
+  },
+  {
+    "moviename": "Mughal-E-Azam",
+    "rating": 8.5,
+    "cast": "K. Asif (dir.), Prithviraj Kapoor, Madhubala",
+    "movieid": "tt0054098"
+  },
+  {
+    "moviename": "Mahanati",
+    "rating": 8.5,
+    "cast": "Nag Ashwin (dir.), Keerthi Suresh, Dulquer Salmaan",
+    "movieid": "tt7465992"
+  },
+  {
+    "moviename": "Bhaag Milkha Bhaag",
+    "rating": 8.5,
+    "cast": "Rakeysh Omprakash Mehra (dir.), Farhan Akhtar, Sonam Kapoor",
+    "movieid": "tt2356180"
+  },
+  {
+    "moviename": "Jo Jeeta Wohi Sikandar",
+    "rating": 8.5,
+    "cast": "Mansoor Khan (dir.), Aamir Khan, Ayesha Jhulka",
+    "movieid": "tt0104561"
+  },
+  {
+    "moviename": "Swades: We, the People",
+    "rating": 8.5,
+    "cast": "Ashutosh Gowariker (dir.), Shah Rukh Khan, Gayatri Joshi",
+    "movieid": "tt0367110"
+  },
+  {
+    "moviename": "Paan Singh Tomar",
+    "rating": 8.5,
+    "cast": "Tigmanshu Dhulia (dir.), Irrfan Khan, Hemendra Dandotiya",
+    "movieid": "tt1620933"
+  },
+  {
+    "moviename": "Jigarthanda",
+    "rating": 8.5,
+    "cast": "Karthik Subbaraj (dir.), Siddharth, Bobby Simha",
+    "movieid": "tt3569782"
+  },
+  {
+    "moviename": "Rang De Basanti",
+    "rating": 8.5,
+    "cast": "Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan",
+    "movieid": "tt0405508"
+  },
+  {
+    "moviename": "Soodhu Kavvum",
+    "rating": 8.5,
+    "cast": "Nalan Kumarasamy (dir.), Vijay Sethupathi, Sanchita Shetty",
+    "movieid": "tt2877108"
+  },
+  {
+    "moviename": "Sholay",
+    "rating": 8.5,
+    "cast": "Ramesh Sippy (dir.), Sanjeev Kumar, Dharmendra",
+    "movieid": "tt0073707"
+  },
+  {
+    "moviename": "Queen",
+    "rating": 8.5,
+    "cast": "Vikas Bahl (dir.), Kangana Ranaut, Rajkummar Rao",
+    "movieid": "tt3322420"
+  },
+  {
+    "moviename": "OMG: Oh My God!",
+    "rating": 8.5,
+    "cast": "Umesh Shukla (dir.), Paresh Rawal, Akshay Kumar",
+    "movieid": "tt2283748"
+  },
+  {
+    "moviename": "Chak De! India",
+    "rating": 8.5,
+    "cast": "Shimit Amin (dir.), Shah Rukh Khan, Vidya Malvade",
+    "movieid": "tt0871510"
+  },
+  {
+    "moviename": "Gangs of Wasseypur",
+    "rating": 8.4,
+    "cast": "Anurag Kashyap (dir.), Manoj Bajpayee, Richa Chadha",
+    "movieid": "tt1954470"
+  },
+  {
+    "moviename": "Premam",
+    "rating": 8.4,
+    "cast": "Alphonse Puthren (dir.), Nivin Pauly, Sai Pallavi",
+    "movieid": "tt4679210"
+  },
+  {
+    "moviename": "Sairat",
+    "rating": 8.4,
+    "cast": "Nagraj Manjule (dir.), Rinku Rajguru, Akash Thosar",
+    "movieid": "tt5312232"
+  },
+  {
+    "moviename": "Bangalore Days",
+    "rating": 8.4,
+    "cast": "Anjali Menon (dir.), Nazriya Nazim, Nivin Pauly",
+    "movieid": "tt3668162"
+  },
+  {
+    "moviename": "A Wednesday",
+    "rating": 8.4,
+    "cast": "Neeraj Pandey (dir.), Anupam Kher, Naseeruddin Shah",
+    "movieid": "tt1280558"
+  },
+  {
+    "moviename": "Munna Bhai M.B.B.S.",
+    "rating": 8.4,
+    "cast": "Rajkumar Hirani (dir.), Sanjay Dutt, Arshad Warsi",
+    "movieid": "tt0374887"
+  },
+  {
+    "moviename": "Mudhalvan",
+    "rating": 8.4,
+    "cast": "S. Shankar (dir.), Arjun Sarja, Manisha Koirala",
+    "movieid": "tt0220656"
+  },
+  {
+    "moviename": "Ustad Hotel",
+    "rating": 8.4,
+    "cast": "Anwar Rasheed (dir.), Dulquer Salmaan, Thilakan",
+    "movieid": "tt2218988"
+  },
+  {
+    "moviename": "Udaan",
+    "rating": 8.4,
+    "cast": "Vikramaditya Motwane (dir.), Rajat Barmecha, Sanjay Gandhi",
+    "movieid": "tt1639426"
+  },
+  {
+    "moviename": "Anniyan",
+    "rating": 8.4,
+    "cast": "S. Shankar (dir.), Vikram, Sada",
+    "movieid": "tt0376127"
+  },
+  {
+    "moviename": "Dil Chahta Hai",
+    "rating": 8.4,
+    "cast": "Farhan Akhtar (dir.), Aamir Khan, Saif Ali Khan",
+    "movieid": "tt0292490"
+  },
+  {
+    "moviename": "Roja",
+    "rating": 8.4,
+    "cast": "Mani Ratnam (dir.), Arvind Swamy, Madhoo",
+    "movieid": "tt0105271"
+  },
+  {
+    "moviename": "Tumbbad",
+    "rating": 8.4,
+    "cast": "Rahi Anil Barve (dir.), Sohum Shah, Jyoti Malshe",
+    "movieid": "tt8239946"
+  },
+  {
+    "moviename": "Andaz Apna Apna",
+    "rating": 8.4,
+    "cast": "Rajkumar Santoshi (dir.), Aamir Khan, Salman Khan",
+    "movieid": "tt0109117"
+  },
+  {
+    "moviename": "Sarfarosh",
+    "rating": 8.4,
+    "cast": "John Mathew Matthan (dir.), Aamir Khan, Naseeruddin Shah",
+    "movieid": "tt0200087"
+  },
+  {
+    "moviename": "Lagaan: Once Upon a Time in India",
+    "rating": 8.4,
+    "cast": "Ashutosh Gowariker (dir.), Aamir Khan, Raghuvir Yadav",
+    "movieid": "tt0169102"
+  },
+  {
+    "moviename": "Pink",
+    "rating": 8.4,
+    "cast": "Aniruddha Roy Chowdhury (dir.), Taapsee Pannu, Amitabh Bachchan",
+    "movieid": "tt5571734"
+  },
+  {
+    "moviename": "Kahaani",
+    "rating": 8.3,
+    "cast": "Sujoy Ghosh (dir.), Vidya Balan, Parambrata Chattopadhyay",
+    "movieid": "tt1821480"
+  },
+  {
+    "moviename": "Zindagi Na Milegi Dobara",
+    "rating": 8.3,
+    "cast": "Zoya Akhtar (dir.), Hrithik Roshan, Farhan Akhtar",
+    "movieid": "tt1562872"
+  },
+  {
+    "moviename": "PK",
+    "rating": 8.3,
+    "cast": "Rajkumar Hirani (dir.), Aamir Khan, Anushka Sharma",
+    "movieid": "tt2338151"
+  },
+  {
+    "moviename": "Iqbal",
+    "rating": 8.3,
+    "cast": "Nagesh Kukunoor (dir.), Shreyas Talpade, Naseeruddin Shah",
+    "movieid": "tt0453729"
+  },
+  {
+    "moviename": "Maqbool",
+    "rating": 8.3,
+    "cast": "Vishal Bhardwaj (dir.), Irrfan Khan, Tabu",
+    "movieid": "tt0379370"
+  },
+  {
+    "moviename": "Theeran Adhigaaram Ondru",
+    "rating": 8.3,
+    "cast": "H. Vinoth (dir.), Karthi, Rakul Preet Singh",
+    "movieid": "tt7060460"
+  },
+  {
+    "moviename": "Masaan",
+    "rating": 8.3,
+    "cast": "Neeraj Ghaywan (dir.), Richa Chadha, Sanjay Mishra",
+    "movieid": "tt4635372"
+  },
+  {
+    "moviename": "Barfi!",
+    "rating": 8.3,
+    "cast": "Anurag Basu (dir.), Ranbir Kapoor, Priyanka Chopra",
+    "movieid": "tt2082197"
+  },
+  {
+    "moviename": "Baasha",
+    "rating": 8.3,
+    "cast": "Suresh Krishna (dir.), Rajinikanth, Nagma",
+    "movieid": "tt0139876"
+  },
+  {
+    "moviename": "The Legend of Bhagat Singh",
+    "rating": 8.3,
+    "cast": "Rajkumar Santoshi (dir.), Ajay Devgn, Sushant Singh",
+    "movieid": "tt0319736"
+  },
+  {
+    "moviename": "Omkara",
+    "rating": 8.3,
+    "cast": "Vishal Bhardwaj (dir.), Ajay Devgn, Saif Ali Khan",
+    "movieid": "tt0488414"
+  },
+  {
+    "moviename": "Arjun Reddy",
+    "rating": 8.3,
+    "cast": "Sandeep Reddy Vanga (dir.), Vijay Deverakonda, Shalini Pandey",
+    "movieid": "tt7294534"
+  },
+  {
+    "moviename": "Lage Raho Munna Bhai",
+    "rating": 8.3,
+    "cast": "Rajkumar Hirani (dir.), Sanjay Dutt, Arshad Warsi",
+    "movieid": "tt0456144"
+  },
+  {
+    "moviename": "Bommarillu",
+    "rating": 8.3,
+    "cast": "Bhaskar (dir.), Siddharth, Genelia D'Souza",
+    "movieid": "tt0843326"
+  },
+  {
+    "moviename": "Bombay",
+    "rating": 8.3,
+    "cast": "Mani Ratnam (dir.), Arvind Swamy, Manisha Koirala",
+    "movieid": "tt0112553"
+  },
+  {
+    "moviename": "Lucia",
+    "rating": 8.3,
+    "cast": "Pawan Kumar (dir.), Sathish Neenasam, Sruthi Hariharan",
+    "movieid": "tt2358592"
+  },
+  {
+    "moviename": "Deewaar",
+    "rating": 8.3,
+    "cast": "Yash Chopra (dir.), Amitabh Bachchan, Shashi Kapoor",
+    "movieid": "tt0072860"
+  },
+  {
+    "moviename": "Dilwale Dulhania Le Jayenge",
+    "rating": 8.3,
+    "cast": "Aditya Chopra (dir.), Shah Rukh Khan, Kajol",
+    "movieid": "tt0112870"
+  },
+  {
+    "moviename": "Ugly",
+    "rating": 8.3,
+    "cast": "Anurag Kashyap (dir.), Rahul Bhat, Ronit Roy",
+    "movieid": "tt2882328"
+  },
+  {
+    "moviename": "Gulaal",
+    "rating": 8.3,
+    "cast": "Anurag Kashyap (dir.), Kay Kay Menon, Raj Singh Chaudhary",
+    "movieid": "tt1261047"
+  },
+  {
+    "moviename": "Baahubali 2: The Conclusion",
+    "rating": 8.3,
+    "cast": "S.S. Rajamouli (dir.), Prabhas, Rana Daggubati",
+    "movieid": "tt4849438"
+  },
+  {
+    "moviename": "Mother India",
+    "rating": 8.3,
+    "cast": "Mehboob Khan (dir.), Nargis, Sunil Dutt",
+    "movieid": "tt0050188"
+  },
+  {
+    "moviename": "Padosan",
+    "rating": 8.3,
+    "cast": "Jyoti Swaroop (dir.), Sunil Dutt, Saira Banu",
+    "movieid": "tt0063404"
+  },
+  {
+    "moviename": "Haider",
+    "rating": 8.3,
+    "cast": "Vishal Bhardwaj (dir.), Shahid Kapoor, Tabu",
+    "movieid": "tt3390572"
+  },
+  {
+    "moviename": "Indian",
+    "rating": 8.3,
+    "cast": "S. Shankar (dir.), Kamal Haasan, Sukanya",
+    "movieid": "tt0116630"
+  },
+  {
+    "moviename": "Special Chabbis",
+    "rating": 8.3,
+    "cast": "Neeraj Pandey (dir.), Akshay Kumar, Anupam Kher",
+    "movieid": "tt2377938"
+  },
+  {
+    "moviename": "Dev.D",
+    "rating": 8.3,
+    "cast": "Anurag Kashyap (dir.), Abhay Deol, Mahie Gill",
+    "movieid": "tt1327035"
+  },
+  {
+    "moviename": "Athadu",
+    "rating": 8.3,
+    "cast": "Trivikram Srinivas (dir.), Mahesh Babu, Trisha Krishnan",
+    "movieid": "tt0471571"
+  },
+  {
+    "moviename": "Vedam",
+    "rating": 8.3,
+    "cast": "Radha Krishna Jagarlamudi (dir.), Manoj Kumar Manchu, Allu Arjun",
+    "movieid": "tt1649431"
+  },
+  {
+    "moviename": "Company",
+    "rating": 8.3,
+    "cast": "Ram Gopal Varma (dir.), Ajay Devgn, Mohanlal",
+    "movieid": "tt0296574"
+  },
+  {
+    "moviename": "Vaastav: The Reality",
+    "rating": 8.3,
+    "cast": "Mahesh Manjrekar (dir.), Sanjay Dutt, Namrata Shirodkar",
+    "movieid": "tt0220832"
+  },
+  {
+    "moviename": "Badhaai Ho",
+    "rating": 8.3,
+    "cast": "Amit Ravindernath Sharma (dir.), Ayushmann Khurrana, Sanya Malhotra",
+    "movieid": "tt7725596"
+  },
+  {
+    "moviename": "Bajrangi Bhaijaan",
+    "rating": 8.3,
+    "cast": "Kabir Khan (dir.), Salman Khan, Harshaali Malhotra",
+    "movieid": "tt3863552"
+  },
+  {
+    "moviename": "Manjhi: The Mountain Man",
+    "rating": 8.3,
+    "cast": "Ketan Mehta (dir.), Nawazuddin Siddiqui, Radhika Apte",
+    "movieid": "tt3449292"
+  },
+  {
+    "moviename": "Ankhon Dekhi",
+    "rating": 8.3,
+    "cast": "Rajat Kapoor (dir.), Sanjay Mishra, Seema Bhargava",
+    "movieid": "tt3614516"
+  },
+  {
+    "moviename": "Jab We Met",
+    "rating": 8.3,
+    "cast": "Imtiaz Ali (dir.), Shahid Kapoor, Kareena Kapoor",
+    "movieid": "tt1093370"
+  },
+  {
+    "moviename": "Ship of Theseus",
+    "rating": 8.3,
+    "cast": "Anand Gandhi (dir.), Aida Elkashef, Yogesh Shah",
+    "movieid": "tt1773764"
+  },
+  {
+    "moviename": "Dor",
+    "rating": 8.3,
+    "cast": "Nagesh Kukunoor (dir.), Ayesha Takia, Shreyas Talpade",
+    "movieid": "tt0824316"
+  },
+  {
+    "moviename": "Pizza",
+    "rating": 8.3,
+    "cast": "Karthik Subbaraj (dir.), Vijay Sethupathi, Ramya Nambeeshan",
+    "movieid": "tt2585562"
+  },
+  {
+    "moviename": "Padman",
+    "rating": 8.2,
+    "cast": "R. Balki (dir.), Akshay Kumar, Radhika Apte",
+    "movieid": "tt7218518"
+  },
+  {
+    "moviename": "Kal Ho Naa Ho",
+    "rating": 8.2,
+    "cast": "Nikkhil Advani (dir.), Preity Zinta, Shah Rukh Khan",
+    "movieid": "tt0347304"
+  },
+  {
+    "moviename": "Rangasthalam",
+    "rating": 8.2,
+    "cast": "Sukumar (dir.), Ram Charan, Samantha Ruth Prabhu",
+    "movieid": "tt7392212"
+  },
+  {
+    "moviename": "Airlift",
+    "rating": 8.2,
+    "cast": "Raja Menon (dir.), Akshay Kumar, Nimrat Kaur",
+    "movieid": "tt4387040"
+  },
+  {
+    "moviename": "My Name Is Khan",
+    "rating": 8.2,
+    "cast": "Karan Johar (dir.), Shah Rukh Khan, Kajol",
+    "movieid": "tt1188996"
+  },
+  {
+    "moviename": "Vaaranam Aayiram",
+    "rating": 8.2,
+    "cast": "Gautham Menon (dir.), Suriya, Simran",
+    "movieid": "tt1180583"
+  },
+  {
+    "moviename": "Baby",
+    "rating": 8.2,
+    "cast": "Neeraj Pandey (dir.), Akshay Kumar, Danny Denzongpa",
+    "movieid": "tt3848892"
+  },
+  {
+    "moviename": "Hey Ram",
+    "rating": 8.2,
+    "cast": "Kamal Haasan (dir.), Kamal Haasan, Shah Rukh Khan",
+    "movieid": "tt0222012"
+  },
+  {
+    "moviename": "Badla",
+    "rating": 8.2,
+    "cast": "Sujoy Ghosh (dir.), Amitabh Bachchan, Taapsee Pannu",
+    "movieid": "tt8130968"
+  },
+  {
+    "moviename": "Lakshya",
+    "rating": 8.2,
+    "cast": "Farhan Akhtar (dir.), Amitabh Bachchan, Hrithik Roshan",
+    "movieid": "tt0323013"
+  },
+  {
+    "moviename": "Bahubali: The Beginning",
+    "rating": 8.2,
+    "cast": "S.S. Rajamouli (dir.), Prabhas, Rana Daggubati",
+    "movieid": "tt2631186"
+  },
+  {
+    "moviename": "Secret Superstar",
+    "rating": 8.2,
+    "cast": "Advait Chandan (dir.), Zaira Wasim, Meher Vij",
+    "movieid": "tt6108090"
+  },
+  {
+    "moviename": "Border",
+    "rating": 8.2,
+    "cast": "J.P. Dutta (dir.), Sunny Deol, Jackie Shroff",
+    "movieid": "tt0118751"
+  },
+  {
+    "moviename": "K.G.F: Chapter 1",
+    "rating": 8.2,
+    "cast": "Prashanth Neel (dir.), Yash, Srinidhi Shetty",
+    "movieid": "tt7838252"
+  },
+  {
+    "moviename": "Gangaajal",
+    "rating": 8.2,
+    "cast": "Prakash Jha (dir.), Ajay Devgn, Gracy Singh",
+    "movieid": "tt0373856"
+  },
+  {
+    "moviename": "Ab Tak Chhappan",
+    "rating": 8.2,
+    "cast": "Shimit Amin (dir.), Nana Patekar, Revathy",
+    "movieid": "tt0402014"
+  },
+  {
+    "moviename": "Vettaiyaadu Vilaiyaadu",
+    "rating": 8.2,
+    "cast": "Gautham Menon (dir.), Kamal Haasan, Jyotika",
+    "movieid": "tt0455829"
+  },
+  {
+    "moviename": "English Vinglish",
+    "rating": 8.2,
+    "cast": "Gauri Shinde (dir.), Sridevi, Adil Hussain",
+    "movieid": "tt2181931"
+  },
+  {
+    "moviename": "Johnny Gaddaar",
+    "rating": 8.2,
+    "cast": "Sriram Raghavan (dir.), Dharmendra, Rimi Sen",
+    "movieid": "tt1077248"
+  },
+  {
+    "moviename": "Manam",
+    "rating": 8.2,
+    "cast": "Vikram K. Kumar (dir.), Akkineni Nageshwara Rao, Nagarjuna Akkineni",
+    "movieid": "tt2926068"
+  },
+  {
+    "moviename": "Okkadu",
+    "rating": 8.2,
+    "cast": "Gunasekhar (dir.), Mahesh Babu, Bhoomika Chawla",
+    "movieid": "tt0366840"
+  },
+  {
+    "moviename": "Ulidavaru Kandanthe",
+    "rating": 8.2,
+    "cast": "Rakshit Shetty (dir.), Kishore Kumar G., Rakshit Shetty",
+    "movieid": "tt3394420"
+  },
+  {
+    "moviename": "Dabba",
+    "rating": 8.2,
+    "cast": "Ritesh Batra (dir.), Irrfan Khan, Nimrat Kaur",
+    "movieid": "tt2350496"
+  },
+  {
+    "moviename": "Rock On!!",
+    "rating": 8.2,
+    "cast": "Abhishek Kapoor (dir.), Arjun Rampal, Farhan Akhtar",
+    "movieid": "tt1230165"
+  },
+  {
+    "moviename": "Nayak: The Real Hero",
+    "rating": 8.2,
+    "cast": "S. Shankar (dir.), Anil Kapoor, Rani Mukerji",
+    "movieid": "tt0291376"
+  },
+  {
+    "moviename": "Udta Punjab",
+    "rating": 8.2,
+    "cast": "Abhishek Chaubey (dir.), Shahid Kapoor, Alia Bhatt",
+    "movieid": "tt4434004"
+  },
+  {
+    "moviename": "Don",
+    "rating": 8.2,
+    "cast": "Chandra Barot (dir.), Amitabh Bachchan, Zeenat Aman",
+    "movieid": "tt0077451"
+  },
+  {
+    "moviename": "Stanley Ka Dabba",
+    "rating": 8.2,
+    "cast": "Amole Gupte (dir.), Partho A. Gupte, Numaan Sheikh",
+    "movieid": "tt1907761"
+  },
+  {
+    "moviename": "Hindi Medium",
+    "rating": 8.2,
+    "cast": "Saket Chaudhary (dir.), Irrfan Khan, Saba Qamar",
+    "movieid": "tt5764096"
+  },
+  {
+    "moviename": "Mr. India",
+    "rating": 8.2,
+    "cast": "Shekhar Kapur (dir.), Anil Kapoor, Sridevi",
+    "movieid": "tt0093578"
+  },
+  {
+    "moviename": "Raazi",
+    "rating": 8.2,
+    "cast": "Meghna Gulzar (dir.), Alia Bhatt, Vicky Kaushal",
+    "movieid": "tt7098658"
+  },
+  {
+    "moviename": "Vicky Donor",
+    "rating": 8.2,
+    "cast": "Shoojit Sircar (dir.), Ayushmann Khurrana, Yami Gautam",
+    "movieid": "tt2317337"
+  },
+  {
+    "moviename": "Dasvidaniya",
+    "rating": 8.2,
+    "cast": "Shashant Shah (dir.), Vinay Pathak, Sarita Joshi",
+    "movieid": "tt1288638"
+  },
+  {
+    "moviename": "Oye Lucky! Lucky Oye!",
+    "rating": 8.2,
+    "cast": "Dibakar Banerjee (dir.), Abhay Deol, Paresh Rawal",
+    "movieid": "tt1292703"
+  },
+  {
+    "moviename": "Guru",
+    "rating": 8.2,
+    "cast": "Mani Ratnam (dir.), Mithun Chakraborty, Abhishek Bachchan",
+    "movieid": "tt0499375"
+  },
+  {
+    "moviename": "Samsara",
+    "rating": 8.2,
+    "cast": "Pan Nalin (dir.), Shawn Ku, Christy Chung",
+    "movieid": "tt0196069"
+  },
+  {
+    "moviename": "Pokiri",
+    "rating": 8.2,
+    "cast": "Puri Jagannadh (dir.), Mahesh Babu, Ileana D'Cruz",
+    "movieid": "tt0816258"
+  },
+  {
+    "moviename": "Mumbai Meri Jaan",
+    "rating": 8.2,
+    "cast": "Nishikant Kamat (dir.), Paresh Rawal, Kay Kay Menon",
+    "movieid": "tt1266583"
+  },
+  {
+    "moviename": "Veer-Zaara",
+    "rating": 8.2,
+    "cast": "Yash Chopra (dir.), Shah Rukh Khan, Preity Zinta",
+    "movieid": "tt0420332"
+  },
+  {
+    "moviename": "Charlie",
+    "rating": 8.2,
+    "cast": "Martin Prakkat (dir.), Dulquer Salmaan, Parvathy",
+    "movieid": "tt5082014"
+  },
+  {
+    "moviename": "Earth",
+    "rating": 8.1,
+    "cast": "Deepa Mehta (dir.), Aamir Khan, Nandita Das",
+    "movieid": "tt0150433"
+  },
+  {
+    "moviename": "Aamir",
+    "rating": 8.1,
+    "cast": "Raj Kumar Gupta (dir.), Rajeev Khandelwal, Aishwarya",
+    "movieid": "tt1241195"
+  },
+  {
+    "moviename": "Kapoor & Sons",
+    "rating": 8.1,
+    "cast": "Shakun Batra (dir.), Sidharth Malhotra, Fawad Khan",
+    "movieid": "tt4900716"
+  },
+  {
+    "moviename": "Agneepath",
+    "rating": 8.1,
+    "cast": "Mukul Anand (dir.), Amitabh Bachchan, Mithun Chakraborty",
+    "movieid": "tt0098999"
+  },
+  {
+    "moviename": "Eega",
+    "rating": 8.1,
+    "cast": "S.S. Rajamouli (dir.), Sudeep, Nani",
+    "movieid": "tt2258337"
+  },
+  {
+    "moviename": "Newton",
+    "rating": 8.1,
+    "cast": "Amit Masurkar (dir.), Rajkummar Rao, Pankaj Tripathi",
+    "movieid": "tt6484982"
+  },
+  {
+    "moviename": "Pyaar Ka Punchnama",
+    "rating": 8.1,
+    "cast": "Luv Ranjan (dir.), Kartik Aaryan, Raayo S. Bakhirta",
+    "movieid": "tt1926313"
+  },
+  {
+    "moviename": "Neerja",
+    "rating": 8.1,
+    "cast": "Ram Madhvani (dir.), Sonam Kapoor, Shabana Azmi",
+    "movieid": "tt5286444"
+  },
+  {
+    "moviename": "RangiTaranga",
+    "rating": 8.1,
+    "cast": "Anup Bhandari (dir.), Nirup Bhandari, Radhika Chetan",
+    "movieid": "tt4432480"
+  },
+  {
+    "moviename": "Madras Cafe",
+    "rating": 8.1,
+    "cast": "Shoojit Sircar (dir.), John Abraham, Nargis Fakhri",
+    "movieid": "tt2855648"
+  },
+  {
+    "moviename": "Manorama Six Feet Under",
+    "rating": 8.1,
+    "cast": "Navdeep Singh (dir.), Abhay Deol, Gul Panag",
+    "movieid": "tt0920464"
+  },
+  {
+    "moviename": "Kabhi Haan Kabhi Naa",
+    "rating": 8.1,
+    "cast": "Kundan Shah (dir.), Shah Rukh Khan, Suchitra Krishnamoorthi",
+    "movieid": "tt0110222"
+  },
+  {
+    "moviename": "Sarkar",
+    "rating": 8.1,
+    "cast": "Ram Gopal Varma (dir.), Amitabh Bachchan, Abhishek Bachchan",
+    "movieid": "tt0432047"
+  },
+  {
+    "moviename": "Darr",
+    "rating": 8.1,
+    "cast": "Yash Chopra (dir.), Juhi Chawla, Sunny Deol",
+    "movieid": "tt0109555"
+  },
+  {
+    "moviename": "Sanju",
+    "rating": 8.1,
+    "cast": "Rajkumar Hirani (dir.), Ranbir Kapoor, Paresh Rawal",
+    "movieid": "tt6452574"
+  },
+  {
+    "moviename": "Bheja Fry",
+    "rating": 8.1,
+    "cast": "Sagar Ballary (dir.), Vinay Pathak, Rajat Kapoor",
+    "movieid": "tt1014672"
+  },
+  {
+    "moviename": "Goodachari",
+    "rating": 8.1,
+    "cast": "Sashi Kiran Tikka (dir.), Adivi Sesh, Sobhita Dhulipala",
+    "movieid": "tt7758160"
+  },
+  {
+    "moviename": "Hotel Mumbai",
+    "rating": 8.1,
+    "cast": "Anthony Maras (dir.), Dev Patel, Armie Hammer",
+    "movieid": "tt5461944"
+  },
+  {
+    "moviename": "Rockstar",
+    "rating": 8.1,
+    "cast": "Imtiaz Ali (dir.), Ranbir Kapoor, Nargis Fakhri",
+    "movieid": "tt1839596"
+  },
+  {
+    "moviename": "Tanu Weds Manu Returns",
+    "rating": 8.1,
+    "cast": "Aanand L. Rai (dir.), Madhavan, Kangana Ranaut",
+    "movieid": "tt2140465"
+  },
+  {
+    "moviename": "Highway",
+    "rating": 8.1,
+    "cast": "Imtiaz Ali (dir.), Alia Bhatt, Randeep Hooda",
+    "movieid": "tt2980794"
+  },
+  {
+    "moviename": "Kai po che!",
+    "rating": 8.1,
+    "cast": "Abhishek Kapoor (dir.), Amit Sadh, Sushant Singh Rajput",
+    "movieid": "tt2213054"
+  },
+  {
+    "moviename": "Kuch Kuch Hota Hai",
+    "rating": 8.1,
+    "cast": "Karan Johar (dir.), Shah Rukh Khan, Kajol",
+    "movieid": "tt0172684"
+  },
+  {
+    "moviename": "Stree",
+    "rating": 8.1,
+    "cast": "Amar Kaushik (dir.), Rajkummar Rao, Shraddha Kapoor",
+    "movieid": "tt8108202"
+  },
+  {
+    "moviename": "24",
+    "rating": 8.1,
+    "cast": "Vikram K. Kumar (dir.), Suriya, Samantha Ruth Prabhu",
+    "movieid": "tt4981966"
+  },
+  {
+    "moviename": "Magadheera",
+    "rating": 8.1,
+    "cast": "S.S. Rajamouli (dir.), Ram Charan, Kajal Aggarwal",
+    "movieid": "tt1447500"
+  },
+  {
+    "moviename": "Baazigar",
+    "rating": 8.1,
+    "cast": "Abbas Alibhai Burmawalla (dir.), Shah Rukh Khan, Kajol",
+    "movieid": "tt0106333"
+  },
+  {
+    "moviename": "Ek Hasina Thi",
+    "rating": 8.1,
+    "cast": "Sriram Raghavan (dir.), Saif Ali Khan, Urmila Matondkar",
+    "movieid": "tt0352314"
+  },
+  {
+    "moviename": "M.S. Dhoni: The Untold Story",
+    "rating": 8.1,
+    "cast": "Neeraj Pandey (dir.), Sushant Singh Rajput, Kiara Advani",
+    "movieid": "tt4169250"
+  },
+  {
+    "moviename": "Saala Khadoos",
+    "rating": 8.1,
+    "cast": "Sudha Kongara (dir.), Madhavan, Nassar",
+    "movieid": "tt5310090"
+  },
+  {
+    "moviename": "Wake Up Sid",
+    "rating": 8.1,
+    "cast": "Ayan Mukherjee (dir.), Ranbir Kapoor, Konkona Sen Sharma",
+    "movieid": "tt1324059"
+  },
+  {
+    "moviename": "Jodhaa Akbar",
+    "rating": 8.1,
+    "cast": "Ashutosh Gowariker (dir.), Hrithik Roshan, Aishwarya Rai Bachchan",
+    "movieid": "tt0449994"
+  },
+  {
+    "moviename": "Parmanu: The Story of Pokhran",
+    "rating": 8.1,
+    "cast": "Abhishek Sharma (dir.), John Abraham, Boman Irani",
+    "movieid": "tt6826438"
+  },
+  {
+    "moviename": "Dil Se..",
+    "rating": 8.1,
+    "cast": "Mani Ratnam (dir.), Shah Rukh Khan, Manisha Koirala",
+    "movieid": "tt0164538"
+  },
+  {
+    "moviename": "Kaththi",
+    "rating": 8.1,
+    "cast": "A.R. Murugadoss (dir.), Joseph Vijay, Samantha Ruth Prabhu",
+    "movieid": "tt3801314"
+  },
+  {
+    "moviename": "Piku",
+    "rating": 8.1,
+    "cast": "Shoojit Sircar (dir.), Deepika Padukone, Amitabh Bachchan",
+    "movieid": "tt3767372"
+  },
+  {
+    "moviename": "Devdas",
+    "rating": 8.1,
+    "cast": "Sanjay Leela Bhansali (dir.), Shah Rukh Khan, Aishwarya Rai Bachchan",
+    "movieid": "tt0238936"
+  },
+  {
+    "moviename": "Thuppakki",
+    "rating": 8.1,
+    "cast": "A.R. Murugadoss (dir.), Joseph Vijay, Kajal Aggarwal",
+    "movieid": "tt2187153"
+  },
+  {
+    "moviename": "Delhi Belly",
+    "rating": 8.1,
+    "cast": "Abhinay Deo (dir.), Imran Khan, Vir Das",
+    "movieid": "tt1934231"
+  },
+  {
+    "moviename": "Aankhen",
+    "rating": 8.1,
+    "cast": "Vipul Amrutlal Shah (dir.), Amitabh Bachchan, Akshay Kumar",
+    "movieid": "tt0306434"
+  },
+  {
+    "moviename": "Raanjhanaa",
+    "rating": 8.1,
+    "cast": "Aanand L. Rai (dir.), Dhanush, Sonam Kapoor",
+    "movieid": "tt2359810"
+  },
+  {
+    "moviename": "Detective Byomkesh Bakshy!",
+    "rating": 8.1,
+    "cast": "Dibakar Banerjee (dir.), Sushant Singh Rajput, Anand Tiwari",
+    "movieid": "tt3447364"
+  },
+  {
+    "moviename": "Qayamat Se Qayamat Tak",
+    "rating": 8.1,
+    "cast": "Mansoor Khan (dir.), Aamir Khan, Juhi Chawla",
+    "movieid": "tt0095936"
+  },
+  {
+    "moviename": "Trapped",
+    "rating": 8.1,
+    "cast": "Vikramaditya Motwane (dir.), Rajkummar Rao, Geetanjali Thapa",
+    "movieid": "tt6206564"
+  },
+  {
+    "moviename": "Rocket Singh: Salesman of the Year",
+    "rating": 8.1,
+    "cast": "Shimit Amin (dir.), Ranbir Kapoor, Prem Chopra",
+    "movieid": "tt1434447"
+  },
+  {
+    "moviename": "1 - Nenokkadine",
+    "rating": 8.1,
+    "cast": "Sukumar (dir.), Mahesh Babu, Kriti Sanon",
+    "movieid": "tt2375559"
+  },
+  {
+    "moviename": "Khakee",
+    "rating": 8.1,
+    "cast": "Rajkumar Santoshi (dir.), Amitabh Bachchan, Akshay Kumar",
+    "movieid": "tt0347332"
+  },
+  {
+    "moviename": "The Ghazi Attack",
+    "rating": 8.1,
+    "cast": "Sankalp Reddy (dir.), Rana Daggubati, Kay Kay Menon",
+    "movieid": "tt6299040"
+  },
+  {
+    "moviename": "Rehnaa Hai Terre Dil Mein",
+    "rating": 8.1,
+    "cast": "Gautham Menon (dir.), Madhavan, Saif Ali Khan",
+    "movieid": "tt0299108"
+  },
+  {
+    "moviename": "Hungama",
+    "rating": 8.1,
+    "cast": "Priyadarshan (dir.), Akshaye Khanna, Aftab Shivdasani",
+    "movieid": "tt0371735"
+  },
+  {
+    "moviename": "Amar Akbar Anthony",
+    "rating": 8.1,
+    "cast": "Manmohan Desai (dir.), Vinod Khanna, Rishi Kapoor",
+    "movieid": "tt0075669"
+  },
+  {
+    "moviename": "Hum Aapke Hain Koun...!",
+    "rating": 8.1,
+    "cast": "Sooraj R. Barjatya (dir.), Madhuri Dixit, Salman Khan",
+    "movieid": "tt0110076"
+  },
+  {
+    "moviename": "Hum Dil De Chuke Sanam",
+    "rating": 8.1,
+    "cast": "Sanjay Leela Bhansali (dir.), Aishwarya Rai Bachchan, Salman Khan",
+    "movieid": "tt0150992"
+  },
+  {
+    "moviename": "Rangeela",
+    "rating": 8.1,
+    "cast": "Ram Gopal Varma (dir.), Urmila Matondkar, Aamir Khan",
+    "movieid": "tt0114234"
+  },
+  {
+    "moviename": "Socha Na Tha",
+    "rating": 8.1,
+    "cast": "Imtiaz Ali (dir.), Abhay Deol, Ayesha Takia",
+    "movieid": "tt0451919"
+  },
+  {
+    "moviename": "Jaane Tu... Ya Jaane Na",
+    "rating": 8.1,
+    "cast": "Abbas Tyrewala (dir.), Imran Khan, Genelia D'Souza",
+    "movieid": "tt0473367"
+  },
+  {
+    "moviename": "Ghajini",
+    "rating": 8.1,
+    "cast": "A.R. Murugadoss (dir.), Suriya, Asin",
+    "movieid": "tt0449951"
+  },
+  {
+    "moviename": "Madaari",
+    "rating": 8.1,
+    "cast": "Nishikant Kamat (dir.), Irrfan Khan, Jimmy Sheirgill",
+    "movieid": "tt5713232"
+  },
+  {
+    "moviename": "Jolly LLB",
+    "rating": 8.1,
+    "cast": "Subhash Kapoor (dir.), Arshad Warsi, Amrita Rao",
+    "movieid": "tt2621000"
+  },
+  {
+    "moviename": "Dum Laga Ke Haisha",
+    "rating": 8.1,
+    "cast": "Sharat Katariya (dir.), Ayushmann Khurrana, Bhumi Pednekar",
+    "movieid": "tt3495030"
+  },
+  {
+    "moviename": "Ghilli",
+    "rating": 8.1,
+    "cast": "Dharani (dir.), Joseph Vijay, Trisha Krishnan",
+    "movieid": "tt0422320"
+  },
+  {
+    "moviename": "October",
+    "rating": 8.1,
+    "cast": "Shoojit Sircar (dir.), Varun Dhawan, Banita Sandhu",
+    "movieid": "tt7700730"
+  },
+  {
+    "moviename": "Bareilly Ki Barfi",
+    "rating": 8.1,
+    "cast": "Ashwiny Iyer Tiwari (dir.), Ayushmann Khurrana, Kriti Sanon",
+    "movieid": "tt6967980"
+  },
+  {
+    "moviename": "Shaadi Mein Zaroor Aana",
+    "rating": 8.1,
+    "cast": "Ratnaa Sinha (dir.), Rajkummar Rao, Kriti Kharbanda",
+    "movieid": "tt7469726"
+  },
+  {
+    "moviename": "Chillar Party",
+    "rating": 8.1,
+    "cast": "Vikas Bahl (dir.), Aarav Khanna, Chinmay Chandraunshuh",
+    "movieid": "tt1841542"
+  },
+  {
+    "moviename": "Kabir Singh",
+    "rating": 8.1,
+    "cast": "Sandeep Reddy Vanga (dir.), Shahid Kapoor, Kiara Advani",
+    "movieid": "tt8983202"
+  },
+  {
+    "moviename": "Sivaji",
+    "rating": 8.1,
+    "cast": "S. Shankar (dir.), Rajinikanth, Shriya Saran",
+    "movieid": "tt0479751"
+  },
+  {
+    "moviename": "Hichki",
+    "rating": 8.1,
+    "cast": "Siddharth Malhotra (dir.), Rani Mukerji, Jannat Zubair Rahmani",
+    "movieid": "tt6588966"
+  },
+  {
+    "moviename": "Geetha Govindam",
+    "rating": 8.1,
+    "cast": "Parasuram (dir.), Vijay Deverakonda, Rashmika Mandanna",
+    "movieid": "tt8590896"
+  },
+  {
+    "moviename": "Baghban",
+    "rating": 8.1,
+    "cast": "Ravi Chopra (dir.), Amitabh Bachchan, Hema Malini",
+    "movieid": "tt0337578"
+  },
+  {
+    "moviename": "Kabhi Khushi Kabhie Gham...",
+    "rating": 8.1,
+    "cast": "Karan Johar (dir.), Shah Rukh Khan, Kajol",
+    "movieid": "tt0248126"
+  },
+  {
+    "moviename": "Badlapur",
+    "rating": 8,
+    "cast": "Sriram Raghavan (dir.), Varun Dhawan, Nawazuddin Siddiqui",
+    "movieid": "tt3678782"
+  },
+  {
+    "moviename": "Peepli (Live)",
+    "rating": 8,
+    "cast": "Anusha Rizvi (dir.), Omkar Das Manikpuri, Raghuvir Yadav",
+    "movieid": "tt1447508"
+  },
+  {
+    "moviename": "Kesari",
+    "rating": 8,
+    "cast": "Anurag Singh (dir.), Akshay Kumar, Parineeti Chopra",
+    "movieid": "tt6264938"
+  },
+  {
+    "moviename": "Karwaan",
+    "rating": 8,
+    "cast": "Akarsh Khurana (dir.), Irrfan Khan, Dulquer Salmaan",
+    "movieid": "tt7919680"
+  },
+  {
+    "moviename": "Chachi 420",
+    "rating": 8,
+    "cast": "Kamal Haasan (dir.), Kamal Haasan, Amrish Puri",
+    "movieid": "tt0233422"
+  },
+  {
+    "moviename": "Dear Zindagi",
+    "rating": 8,
+    "cast": "Gauri Shinde (dir.), Alia Bhatt, Shah Rukh Khan",
+    "movieid": "tt5946128"
+  },
+  {
+    "moviename": "Guzaarish",
+    "rating": 8,
+    "cast": "Sanjay Leela Bhansali (dir.), Hrithik Roshan, Aishwarya Rai Bachchan",
+    "movieid": "tt1438298"
+  },
+  {
+    "moviename": "Mankatha",
+    "rating": 8,
+    "cast": "Venkat Prabhu (dir.), Ajith Kumar, Arjun Sarja",
+    "movieid": "tt1705772"
+  },
+  {
+    "moviename": "Once Upon a Time in Mumbaai",
+    "rating": 8,
+    "cast": "Milan Luthria (dir.), Ajay Devgn, Emraan Hashmi",
+    "movieid": "tt1395054"
+  },
+  {
+    "moviename": "Golmaal: Fun Unlimited",
+    "rating": 8,
+    "cast": "Rohit Shetty (dir.), Ajay Devgn, Arshad Warsi",
+    "movieid": "tt0495034"
+  },
+  {
+    "moviename": "Yuva",
+    "rating": 8,
+    "cast": "Mani Ratnam (dir.), Ajay Devgn, Abhishek Bachchan",
+    "movieid": "tt0382383"
+  },
+  {
+    "moviename": "Kaminey",
+    "rating": 8,
+    "cast": "Vishal Bhardwaj (dir.), Shahid Kapoor, Priyanka Chopra",
+    "movieid": "tt1274295"
+  },
+  {
+    "moviename": "Life in a Metro",
+    "rating": 8,
+    "cast": "Anurag Basu (dir.), Dharmendra, Irrfan Khan",
+    "movieid": "tt0800956"
+  },
+  {
+    "moviename": "Monsoon Wedding",
+    "rating": 8,
+    "cast": "Mira Nair (dir.), Naseeruddin Shah, Lillete Dubey",
+    "movieid": "tt0265343"
+  },
+  {
+    "moviename": "Raid",
+    "rating": 8,
+    "cast": "Raj Kumar Gupta (dir.), Ajay Devgn, Saurabh Shukla",
+    "movieid": "tt7363076"
+  },
+  {
+    "moviename": "Khiladi",
+    "rating": 8,
+    "cast": "Abbas Alibhai Burmawalla (dir.), Akshay Kumar, Ayesha Jhulka",
+    "movieid": "tt0104605"
+  },
+  {
+    "moviename": "Page 3",
+    "rating": 8,
+    "cast": "Madhur Bhandarkar (dir.), Konkona Sen Sharma, Atul Kulkarni",
+    "movieid": "tt0443708"
+  },
+  {
+    "moviename": "Khaleja",
+    "rating": 8,
+    "cast": "Trivikram Srinivas (dir.), Mahesh Babu, Anushka Shetty",
+    "movieid": "tt1582519"
+  },
+  {
+    "moviename": "Ghulam",
+    "rating": 8,
+    "cast": "Vikram Bhatt (dir.), Aamir Khan, Rani Mukerji",
+    "movieid": "tt0190419"
+  },
+  {
+    "moviename": "Maine Pyar Kiya",
+    "rating": 8,
+    "cast": "Sooraj R. Barjatya (dir.), Salman Khan, Bhagyashree",
+    "movieid": "tt0100095"
+  },
+  {
+    "moviename": "Ghajini",
+    "rating": 8,
+    "cast": "A.R. Murugadoss (dir.), Aamir Khan, Asin",
+    "movieid": "tt1166100"
+  },
+  {
+    "moviename": "Raman Raghav 2.0",
+    "rating": 8,
+    "cast": "Anurag Kashyap (dir.), Nawazuddin Siddiqui, Vicky Kaushal",
+    "movieid": "tt5662932"
+  },
+  {
+    "moviename": "Ishqiya",
+    "rating": 8,
+    "cast": "Abhishek Chaubey (dir.), Vidya Balan, Naseeruddin Shah",
+    "movieid": "tt1345777"
+  },
+  {
+    "moviename": "Lootera",
+    "rating": 8,
+    "cast": "Vikramaditya Motwane (dir.), Ranveer Singh, Sonakshi Sinha",
+    "movieid": "tt2224317"
+  },
+  {
+    "moviename": "Bhool Bhulaiyaa",
+    "rating": 8,
+    "cast": "Priyadarshan (dir.), Akshay Kumar, Vidya Balan",
+    "movieid": "tt0995031"
+  },
+  {
+    "moviename": "Srimanthudu",
+    "rating": 8,
+    "cast": "Koratala Siva (dir.), Mahesh Babu, Shruti Haasan",
+    "movieid": "tt4727512"
+  },
+  {
+    "moviename": "Bharat Ane Nenu",
+    "rating": 8,
+    "cast": "Koratala Siva (dir.), Mahesh Babu, Kiara Advani",
+    "movieid": "tt6980546"
+  },
+  {
+    "moviename": "Holiday",
+    "rating": 8,
+    "cast": "A.R. Murugadoss (dir.), Akshay Kumar, Sonakshi Sinha",
+    "movieid": "tt2556308"
+  },
+  {
+    "moviename": "Parineeta",
+    "rating": 8,
+    "cast": "Pradeep Sarkar (dir.), Vidya Balan, Saif Ali Khan",
+    "movieid": "tt0437407"
+  },
+  {
+    "moviename": "Ayan",
+    "rating": 8,
+    "cast": "K.V. Anand (dir.), Suriya, Tamannaah Bhatia",
+    "movieid": "tt1355546"
+  },
+  {
+    "moviename": "Gold",
+    "rating": 8,
+    "cast": "Reema Kagti (dir.), Akshay Kumar, Mouni Roy",
+    "movieid": "tt6173990"
+  },
+  {
+    "moviename": "Mardaani",
+    "rating": 8,
+    "cast": "Pradeep Sarkar (dir.), Rani Mukerji, Tahir Raj Bhasin",
+    "movieid": "tt3495000"
+  },
+  {
+    "moviename": "Taxi No. 9 2 11: Nau Do Gyarah",
+    "rating": 8,
+    "cast": "Milan Luthria (dir.), John Abraham, Nana Patekar",
+    "movieid": "tt0476884"
+  },
+  {
+    "moviename": "Saajan",
+    "rating": 8,
+    "cast": "Lawrence D'Souza (dir.), Sanjay Dutt, Madhuri Dixit",
+    "movieid": "tt0102825"
+  }
+]
